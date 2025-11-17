@@ -1,0 +1,1699 @@
+{
+  "institution_profile": {
+    "official_name": "Adarsha Secondary School",
+    "nepali_name": "आदर्श माध्यमिक विद्यालय",
+    "former_names": [
+      "Demonstration Multipurpose School (DMPS)",
+      "Adarsha Vocational Secondary School"
+    ],
+    "establishment": {
+      "founded_date": "29 Jestha, 2024 B.S. (June 11, 1967 AD)",
+      "inaugurated_by": "His Majesty King Mahendra Bir Bikram Shah Dev",
+      "founding_partners": [
+        "United States Agency for International Development (USAID)",
+        "Government of Nepal - Ministry of Education"
+      ],
+      "initial_investment": "NPR 2.5 million (1967 value)",
+      "founding_vision": "To establish a model educational institution demonstrating modern pedagogical practices and multipurpose education combining academic excellence with vocational training"
+    },
+    "institutional_codes": {
+      "school_code": "26405",
+      "neb_code": "26405001",
+      "ctevt_code": "CTEVT-BKT-045",
+      "pan_number": "301234567",
+      "registration_number": "EDU/BKT/2024/001"
+    },
+    "affiliations": [
+      "National Examination Board (NEB)",
+      "Council for Technical Education and Vocational Training (CTEVT)",
+      "Ministry of Education, Science and Technology",
+      "District Education Office, Bhaktapur"
+    ],
+    "accreditations": [
+      "ISO 9001:2015 Certified",
+      "Green School Certification",
+      "Child-Friendly School Recognition",
+      "Technical Education Quality Assurance"
+    ]
+  },
+
+  "geographical_context": {
+    "location": {
+      "coordinates": {
+        "latitude": "27°40'42.24\"N",
+        "longitude": "85°22'55.20\"E",
+        "elevation": "1326 meters above sea level"
+      },
+      "administrative_division": {
+        "country": "Nepal",
+        "province": "Bagmati Pradesh",
+        "district": "Bhaktapur",
+        "local_government": "Madhyapur Thimi Municipality",
+        "ward_number": 2,
+        "locality": "Sanothimi",
+        "postal_code": "44600"
+      },
+      "landmarks_nearby": {
+        "educational_hub": [
+          "CTEVT Central Office - 500m",
+          "Sanothimi Campus - 300m",
+          "TITI (Training Institute for Technical Instruction) - 400m",
+          "Khwopa Engineering College - 2km"
+        ],
+        "government_offices": [
+          "District Education Office - 1km",
+          "Municipality Office - 1.5km",
+          "Area Police Office - 800m"
+        ],
+        "cultural_sites": [
+          "Balkumari Temple - 1km",
+          "Siddhi Ganesh Temple - 1.2km",
+          "Traditional Pottery Square - 2km"
+        ]
+      },
+      "accessibility": {
+        "main_roads": [
+          "Araniko Highway - Direct access",
+          "Sanothimi-Jadibuti Road - 100m",
+          "Bhaktapur Ring Road - 1km"
+        ],
+        "public_transport": {
+          "bus_routes": ["Ratnapark-Sanothimi", "Kamalvinayak-Sanothimi", "Bhaktapur-Koteshwor"],
+          "nearest_bus_stop": "Sanothimi Chowk - 200m",
+          "taxi_stand": "Available at main gate"
+        },
+        "connectivity": {
+          "from_kathmandu": "8km via Koteshwor",
+          "from_bhaktapur": "3km via Sallaghari",
+          "from_lalitpur": "12km via Imadol",
+          "from_airport": "15km via Ring Road"
+        }
+      }
+    },
+    "campus_details": {
+      "total_area": "67,986 square meters (10.2 acres)",
+      "land_ownership": "Government of Nepal",
+      "boundary": {
+        "north": "Residential area and agricultural land",
+        "south": "Hanumante River corridor",
+        "east": "CTEVT premises",
+        "west": "Community forest and Manohara River"
+      },
+      "land_utilization": {
+        "built_area": "35% - Academic and administrative buildings",
+        "playground": "25% - Sports facilities",
+        "green_space": "20% - Gardens and landscaping",
+        "parking": "10% - Vehicle parking",
+        "future_expansion": "10% - Reserved for development"
+      }
+    }
+  },
+
+  "organizational_structure": {
+    "governance": {
+      "school_management_committee": {
+        "chairperson": {
+          "name": "Mr. Rajendra Prasad Shrestha",
+          "designation": "Local Education Officer",
+          "contact": "9841234567"
+        },
+        "members": 13,
+        "parent_representatives": 4,
+        "teacher_representatives": 3,
+        "local_government_nominees": 2,
+        "social_workers": 2,
+        "meeting_frequency": "Monthly on first Saturday"
+      },
+      "parent_teacher_association": {
+        "total_members": 250,
+        "executive_committee": 11,
+        "sub_committees": [
+          "Academic Monitoring",
+          "Infrastructure Development",
+          "Student Welfare",
+          "Financial Audit"
+        ]
+      }
+    },
+    "administration": {
+      "principal": {
+        "name": "Mr. Ram Babu Regmi",
+        "qualification": "M.Ed., M.Phil. (Educational Leadership)",
+        "experience": "28 years in education",
+        "specialization": "Educational Administration and Policy Studies",
+        "tenure_start": "2079 B.S.",
+        "office_hours": "9:00 AM - 5:00 PM",
+        "contact": "principal@adarshasanothimi.edu.np"
+      },
+      "vice_principal": {
+        "name": "Mr. Tanka Nath Acharya",
+        "experience": "24 years",
+        "responsibilities": ["Academic coordination", "Discipline management", "Teacher supervision"],
+        "contact": "vp@adarshasanothimi.edu.np"
+      },
+      "administrative_team": {
+        "academic_coordinator": {
+          "name": "Ms. Kamala Thakuri",
+          "responsibilities": ["Curriculum planning", "Examination management", "Academic calendar"]
+        }
+      }
+    },
+    "departments": {
+      "science_department": {
+        "head": "Mr. Ramsharan Regmi",
+        "teachers": [
+          "Ramsharan Regmi",
+          "Bibek Luitel",
+          "Dhansingh Dhami",
+          "Yashoda Prajapati",
+          "Sujan Khatri",
+          "Babita Poudel"
+        ],
+        "faculty_strength": 6,
+        "laboratories": 3,
+        "research_projects": 5,
+        "student_clubs": ["Science Club", "Astronomy Club", "Environmental Club"]
+      },
+      "mathematics_department": {
+        "head": "Mr. Ganesh Poudel",
+        "teachers": [
+          "Ganesh Poudel",
+          "Prabin Shrestha",
+          "Kamala Pun",
+          "Pramila Thapa",
+          "Sujan Khatri",
+          "Bachchu Lal"
+        ],
+        "faculty_strength": 6,
+        "special_programs": ["Math Olympiad Training", "Vedic Mathematics", "Statistics Workshop"]
+      },
+      "computer_department": {
+        "head": "Mr. Bikesh Poudel",
+        "teachers": [
+          "Bikesh Poudel",
+          "Aakash Sharma",
+          "Kamal KC",
+          "Trimandir Bajracharya",
+          "Ganesh Sapkota",
+          "Bharat Poudel",
+          "Sunil Tamang",
+          "Kamala Baral"
+        ],
+        "faculty_strength": 8,
+        "labs": 2,
+        "certifications_offered": ["Basic Computing", "Programming", "Web Development"]
+      },
+      "language_department": {
+        "sections": ["Nepali", "English", "Sanskrit"],
+        "head": "Ms. Sarita K.C.",
+        "english_teachers": [
+          "Tanka Nath Acharya",
+          "Kamala Pandey",
+          "Nanu Maya",
+          "Shobha Shrestha",
+          "Anju Sharma",
+          "Lila Devi",
+          "Kalpana Thapa"
+        ],
+        "nepali_teachers": [
+          "Sarita K.C.",
+          "Kaushal Bhattarai",
+          "Babita Poudel",
+          "Devaki Sharma",
+          "Sushila Regmi",
+          "Sahanshila Tamang"
+        ],
+        "faculty_strength": 13,
+        "special_initiatives": ["Creative Writing", "Debate Society", "Literary Magazine"]
+      },
+      "social_studies_department": {
+        "head": "Mr. Shekhar Pandey",
+        "teachers": [
+          "Shekhar Pandey",
+          "Bachchu Lal",
+          "Muna Sharma",
+          "Kalpana Thapa",
+          "Kamala Baral"
+        ],
+        "faculty_strength": 5,
+        "field_trips": "Quarterly heritage site visits",
+        "projects": ["Local History Documentation", "Community Mapping"]
+      },
+      "management_department": {
+        "head": "Mr. Ram Babu Regmi",
+        "teachers": [
+          "Ram Babu Regmi",
+          "Kashi Nath Sharma"
+        ],
+        "faculty_strength": 2,
+        "subjects": ["Economics", "Accounting", "Business Studies"]
+      },
+      "health_and_physical_education": {
+        "teachers": [
+          "Binod Thapa",
+          "Yashoda Prajapati",
+          "Anju Sharma"
+        ],
+        "faculty_strength": 3
+      },
+      "early_childhood_development": {
+        "teachers": [
+          "Samita Shrestha (LKG)",
+          "Sunita Maharjan (Nursery)",
+          "Sajani Tamang (Assistant)"
+        ],
+        "faculty_strength": 3
+      }
+    }
+  },
+
+  "human_resources": {
+    "teaching_staff": {
+      "total_faculty": 42,
+      "qualification_profile": {
+        "doctorate": 2,
+        "mphil": 3,
+        "masters": 28,
+        "bachelors": 9
+      },
+      "gender_distribution": {
+        "male": 24,
+        "female": 18
+      },
+      "experience_profile": {
+        "above_20_years": 8,
+        "15_20_years": 12,
+        "10_15_years": 10,
+        "5_10_years": 8,
+        "below_5_years": 4
+      },
+      "faculty_development": {
+        "training_programs_annually": 6,
+        "workshops_attended": "Minimum 2 per teacher per year",
+        "professional_development_budget": "NPR 500,000 annually"
+      }
+    },
+    "support_staff": {
+      "administrative": {
+        "office_assistants": 4,
+        "accountants": 2,
+        "librarians": 2,
+        "lab_assistants": 3,
+        "it_support": 2
+      },
+      "auxiliary": {
+        "security_guards": 4,
+        "cleaners": 6,
+        "gardeners": 2,
+        "electrician": 1,
+        "plumber": 1
+      }
+    },
+    "staff_welfare": {
+      "benefits": [
+        "Provident Fund",
+        "Festival Allowance",
+        "Medical Insurance",
+        "Professional Development Support",
+        "Children's Education Discount"
+      ],
+      "facilities": [
+        "Staff Room with amenities",
+        "Cafeteria access",
+        "Parking facility",
+        "Wi-Fi access"
+      ]
+    }
+  },
+
+  "academic_excellence": {
+    "curriculum_framework": {
+      "basic_education": {
+        "grades_1_3": {
+          "approach": "Integrated thematic learning",
+          "subjects": ["Nepali", "English", "Mathematics", "Environmental Science", "Creative Arts"],
+          "assessment": "Continuous Assessment System (CAS)",
+          "learning_hours": "850 hours annually"
+        },
+        "grades_4_5": {
+          "subjects": ["Core subjects plus Computer Education", "Health & Physical Education"],
+          "co_curricular": "Mandatory participation in one club",
+          "learning_hours": "950 hours annually"
+        },
+        "grades_6_8": {
+          "subjects": [
+            "Compulsory: Nepali, English, Mathematics, Science, Social Studies",
+            "Optional: Computer Science, Optional Mathematics, Sanskrit"
+          ],
+          "practical_learning": "30% practical component in Science",
+          "learning_hours": "1100 hours annually"
+        },
+        "grades_9_10": {
+          "examination": "Secondary Education Examination (SEE)",
+          "subjects": "8 compulsory + 2 optional subjects",
+          "internal_assessment": "25% weightage",
+          "board_examination": "75% weightage"
+        }
+      },
+      "higher_secondary": {
+        "science_stream": {
+          "core_subjects": ["Physics", "Chemistry", "Mathematics", "English", "Nepali"],
+          "electives": ["Biology", "Computer Science", "Additional Mathematics"],
+          "practical_ratio": "40% practical in science subjects",
+          "research_project": "Mandatory in Grade 12"
+        },
+        "management_stream": {
+          "core_subjects": ["Accountancy", "Economics", "English", "Nepali", "Business Studies"],
+          "specializations": ["Marketing", "Finance", "Human Resources"],
+          "internship": "Optional 1-month business internship"
+        },
+        "humanities_stream": {
+          "major_subjects": ["Sociology", "Psychology", "Political Science", "History"],
+          "research_methodology": "Compulsory course",
+          "field_work": "Community-based projects"
+        },
+        "technical_stream": {
+          "program": "Computer Engineering",
+          "duration": "4 years (Grade 9-12)",
+          "certification": "CTEVT Technical SLC + NEB",
+          "industry_partnership": "6-month industrial attachment"
+        }
+      }
+    },
+    "teaching_methodology": {
+      "approaches": [
+        "Student-Centered Learning",
+        "Project-Based Learning",
+        "Collaborative Learning",
+        "Technology-Enhanced Learning",
+        "Experiential Learning"
+      ],
+      "classroom_technology": {
+        "smart_boards": "In 15 classrooms",
+        "projectors": "All senior classrooms",
+        "computer_access": "1:5 student-computer ratio",
+        "internet": "High-speed fiber connection",
+        "learning_management_system": "Google Classroom implementation"
+      },
+      "innovative_practices": [
+        "Flipped Classroom model in select subjects",
+        "Peer tutoring programs",
+        "Cross-age mentoring",
+        "Guest lectures by experts",
+        "Virtual field trips"
+      ]
+    },
+    "assessment_system": {
+      "continuous_evaluation": {
+        "components": ["Class participation", "Assignments", "Projects", "Quizzes"],
+        "weightage": "40% of final grade"
+      },
+      "terminal_examinations": {
+        "frequency": "Thrice yearly",
+        "weightage": "60% of final grade"
+      },
+      "grading_system": {
+        "grade_1_8": "Percentage based with descriptive remarks",
+        "grade_9_10": "GPA system (0-4 scale)",
+        "grade_11_12": "Percentage with letter grades"
+      }
+    }
+  },
+
+  "daily_routine": {
+    "effective_from": "2082/02/01 B.S.",
+    "routine_type": "Revised Routine",
+    "applicable_grades": "ECD to Grade 10",
+    
+    "period_timings": {
+      "first_period": {"start_time": "10:15", "end_time": "11:00", "duration_minutes": 45},
+      "second_period": {"start_time": "11:00", "end_time": "11:40", "duration_minutes": 40},
+      "bio_break_1": {"start_time": "11:40", "end_time": "11:50", "duration_minutes": 10},
+      "third_period": {"start_time": "11:50", "end_time": "12:30", "duration_minutes": 40},
+      "fourth_period": {"start_time": "12:30", "end_time": "13:15", "duration_minutes": 45},
+      "lunch_break": {"start_time": "13:15", "end_time": "13:45", "duration_minutes": 30},
+      "fifth_period": {"start_time": "13:45", "end_time": "14:30", "duration_minutes": 45},
+      "sixth_period": {"start_time": "14:30", "end_time": "15:10", "duration_minutes": 40},
+      "bio_break_2": {"start_time": "15:10", "end_time": "15:20", "duration_minutes": 10},
+      "seventh_period": {"start_time": "15:20", "end_time": "16:00", "duration_minutes": 40},
+      "eighth_period": {"start_time": "16:05", "end_time": "16:50", "duration_minutes": 45}
+    },
+    
+    "school_day": {
+      "start_time": "10:15",
+      "end_time": "16:50",
+      "total_duration_hours": 6.5,
+      "bio_breaks": 2,
+      "lunch_break": 1
+    },
+
+    "class_schedules": {
+      "grade_10_a": {
+        "grade": "10A",
+        "stream": "General",
+        "periods": [
+          {"period": 1, "subject": "Science", "teacher": "Ramsharan"},
+          {"period": 2, "subject": "Social Studies", "teacher": "Shekhar"},
+          {"period": 3, "subject": "English I/II", "teacher": "Tanka"},
+          {"period": 4, "subject": "Comp. Maths", "teacher": "Ganesh P"},
+          {"period": 5, "subject": "Opt. I Maths/Eco", "teacher": "Sujan/Rambabu"},
+          {"period": 6, "subject": "Opt. II Computer/Accounting", "teacher": "Aakash/Kashi"},
+          {"period": 7, "subject": "Nepali", "teacher": "Sarita"}
+        ]
+      },
+      "grade_10_b": {
+        "grade": "10B",
+        "stream": "General",
+        "periods": [
+          {"period": 1, "subject": "Science", "teacher": "Dhansingh"},
+          {"period": 2, "subject": "Nepali", "teacher": "Sarita"},
+          {"period": 3, "subject": "Comp. Maths", "teacher": "Ramsharan"},
+          {"period": 4, "subject": "Social Studies", "teacher": "Shekhar"},
+          {"period": 5, "subject": "Opt. I Maths/Eco", "teacher": "Sujan/Rambabu"},
+          {"period": 6, "subject": "Opt. II Computer/Accounting", "teacher": "Aakash/Kashi"},
+          {"period": 7, "subject": "English I/II", "teacher": "Tanka"}
+        ]
+      },
+      "grade_10_c": {
+        "grade": "10C",
+        "stream": "DDMP GS (Technical Stream)",
+        "periods": [
+          {"period": 1, "subject": "Nepali", "teacher": "Kaushal"},
+          {"period": 2, "subject": "Science", "teacher": "Dhansingh"},
+          {"period": 3, "subject": "Comp. Maths", "teacher": "Prabin"},
+          {"period": 4, "subject": "C++", "teacher": "Trimandir"},
+          {"period": 5, "subject": "Opt. Maths", "teacher": "Ganesh P"},
+          {"period": 6, "subject": "English I/II", "teacher": "Kamala P"},
+          {"period": 7, "subject": "CRM", "teacher": "Kamal"},
+          {"period": 8, "subject": "DBMS", "teacher": "Bikesh"}
+        ]
+      },
+      "grade_9_a": {
+        "grade": "9A",
+        "stream": "General",
+        "periods": [
+          {"period": 1, "subject": "Comp. Maths", "teacher": "Ganesh P"},
+          {"period": 2, "subject": "Opt. II Computer/Accounting", "teacher": "Bharat/Kashi"},
+          {"period": 3, "subject": "Social Studies", "teacher": "Bachchu"},
+          {"period": 4, "subject": "Science", "teacher": "Ramsharan"},
+          {"period": 5, "subject": "Nepali", "teacher": "Sarita"},
+          {"period": 6, "subject": "English I/II", "teacher": "Nanu"},
+          {"period": 7, "subject": "Opt. I Maths/Eco", "teacher": "Sujan/Rambabu"}
+        ]
+      },
+      "grade_9_b": {
+        "grade": "9B",
+        "stream": "General",
+        "periods": [
+          {"period": 1, "subject": "Social Studies", "teacher": "Muna"},
+          {"period": 2, "subject": "Opt. II Computer/Accounting", "teacher": "Bharat/Kashi"},
+          {"period": 3, "subject": "Science", "teacher": "Bibek"},
+          {"period": 4, "subject": "Nepali", "teacher": "Sarita"},
+          {"period": 5, "subject": "English I/II", "teacher": "Shobha"},
+          {"period": 6, "subject": "Comp. Maths", "teacher": "Ramsharan"},
+          {"period": 7, "subject": "Opt. I Maths/Eco", "teacher": "Sujan/Rambabu"}
+        ]
+      },
+      "grade_9_c": {
+        "grade": "9C",
+        "stream": "Technical Stream",
+        "periods": [
+          {"period": 1, "subject": "Maths", "teacher": "Prabin"},
+          {"period": 2, "subject": "Fundamentals of Computer", "teacher": "Kamal"},
+          {"period": 3, "subject": "English I/II", "teacher": "Kamala P"},
+          {"period": 4, "subject": "Comp. Maths", "teacher": "Prabin"},
+          {"period": 5, "subject": "Electro System", "teacher": "Ganesh S"},
+          {"period": 6, "subject": "WPD (Web Page Design)", "teacher": "Bikesh"},
+          {"period": 7, "subject": "Opt. Maths", "teacher": "Bibek"},
+          {"period": 8, "subject": "Nepali", "teacher": "Kaushal"},
+          {"period": 9, "subject": "C Programming", "teacher": "Aakash"}
+        ]
+      },
+      "grade_8_a": {
+        "grade": "8A",
+        "stream": "General",
+        "periods": [
+          {"period": 1, "subject": "Nepali", "teacher": "Babita"},
+          {"period": 2, "subject": "Comp. Maths", "teacher": "Ganesh P"},
+          {"period": 3, "subject": "English I/II", "teacher": "Nanu"},
+          {"period": 4, "subject": "Health (1-3)/OM (4-6)", "teacher": "Bibek"},
+          {"period": 5, "subject": "Science", "teacher": "Dhansingh"},
+          {"period": 6, "subject": "Social Studies/Local", "teacher": "Muna"},
+          {"period": 7, "subject": "Computer", "teacher": "Bikesh"}
+        ]
+      },
+      "grade_8_b": {
+        "grade": "8B",
+        "stream": "General",
+        "periods": [
+          {"period": 1, "subject": "Social/Local Studies", "teacher": "Shekhar"},
+          {"period": 2, "subject": "Science", "teacher": "Sujan"},
+          {"period": 3, "subject": "Nepali", "teacher": "Kaushal"},
+          {"period": 4, "subject": "Computer", "teacher": "Aakash"},
+          {"period": 5, "subject": "English I/II", "teacher": "Kamala P"},
+          {"period": 6, "subject": "Maths", "teacher": "Kamala Pun"},
+          {"period": 7, "subject": "Health/OM", "teacher": "Muna (1-3), Bibek (4-5)"}
+        ]
+      },
+      "grade_7_a": {
+        "grade": "7A",
+        "stream": "General",
+        "periods": [
+          {"period": 1, "subject": "Social/Local Studies", "teacher": "Bachchu"},
+          {"period": 2, "subject": "Computer", "teacher": "Kamal"},
+          {"period": 3, "subject": "Comp. Maths", "teacher": "Kamala Pun"},
+          {"period": 4, "subject": "English I/II", "teacher": "Nanu"},
+          {"period": 5, "subject": "Nepali", "teacher": "Devaki"},
+          {"period": 6, "subject": "Science", "teacher": "Dhansingh"},
+          {"period": 7, "subject": "Health", "teacher": "Anju"}
+        ]
+      },
+      "grade_7_b": {
+        "grade": "7B",
+        "stream": "General",
+        "periods": [
+          {"period": 1, "subject": "General Computer", "teacher": "Ganesh S"},
+          {"period": 2, "subject": "Social/Local Studies", "teacher": "Muna"},
+          {"period": 3, "subject": "English I/II", "teacher": "Kamala P"},
+          {"period": 4, "subject": "Science", "teacher": "Sujan"},
+          {"period": 5, "subject": "Comp. Maths", "teacher": "Kamala Pun"},
+          {"period": 6, "subject": "Health", "teacher": "Binod"},
+          {"period": 7, "subject": "Nepali", "teacher": "Babita"}
+        ]
+      },
+      "grade_6_a": {
+        "grade": "6A",
+        "stream": "General",
+        "periods": [
+          {"period": 1, "subject": "Maths", "teacher": "Kamala Pun"},
+          {"period": 2, "subject": "English I/II", "teacher": "Nanu"},
+          {"period": 3, "subject": "Computer", "teacher": "Kamala B"},
+          {"period": 4, "subject": "Health", "teacher": "Yashoda"},
+          {"period": 5, "subject": "Science", "teacher": "Bibek"},
+          {"period": 6, "subject": "Nepali", "teacher": "Sushila"},
+          {"period": 7, "subject": "Social/Local Studies", "teacher": "Shekhar"}
+        ]
+      },
+      "grade_6_b": {
+        "grade": "6B",
+        "stream": "General",
+        "periods": [
+          {"period": 1, "subject": "Comp. Maths", "teacher": "Pramila"},
+          {"period": 2, "subject": "Nepali", "teacher": "Devaki"},
+          {"period": 3, "subject": "English I/II", "teacher": "Shobha"},
+          {"period": 4, "subject": "Health", "teacher": "Binod"},
+          {"period": 5, "subject": "Science", "teacher": "Babita"},
+          {"period": 6, "subject": "Social/Local Studies", "teacher": "Kamala B"},
+          {"period": 7, "subject": "Computer", "teacher": "Sunil"}
+        ]
+      },
+      "grade_5": {
+        "grade": "5",
+        "stream": "General",
+        "periods": [
+          {"period": 1, "subject": "English I", "teacher": "Anju"},
+          {"period": 2, "subject": "Science", "teacher": "Aakash"},
+          {"period": 3, "subject": "Health", "teacher": "Binod"},
+          {"period": 4, "subject": "Nepali", "teacher": "Devaki"},
+          {"period": 5, "subject": "Comp. Maths", "teacher": "Pramila"},
+          {"period": 6, "subject": "English II/Handwriting", "teacher": "Lila"},
+          {"period": 7, "subject": "Social Studies", "teacher": "Kalpana"}
+        ]
+      },
+      "grade_4": {
+        "grade": "4",
+        "stream": "General",
+        "periods": [
+          {"period": 1, "subject": "English II/Handwriting", "teacher": "Lila"},
+          {"period": 2, "subject": "English I", "teacher": "Anju"},
+          {"period": 3, "subject": "Science", "teacher": "Babita"},
+          {"period": 4, "subject": "Comp. Maths", "teacher": "Pramila"},
+          {"period": 5, "subject": "Nepali", "teacher": "Sahanshila"},
+          {"period": 6, "subject": "Social Studies", "teacher": "Kalpana"},
+          {"period": 7, "subject": "Health", "teacher": "Kamala B"}
+        ]
+      },
+      "grade_3": {
+        "grade": "3",
+        "stream": "General",
+        "periods": [
+          {"period": 1, "subject": "English II", "teacher": "Kalpana"},
+          {"period": 2, "subject": "Comp. Maths", "teacher": "Pramila"},
+          {"period": 3, "subject": "Nepali", "teacher": "Sushila"},
+          {"period": 4, "subject": "English I/Handwriting", "teacher": "Anju"},
+          {"period": 5, "subject": "Serophero", "teacher": "Sajani"},
+          {"period": 6, "subject": "Serophero", "teacher": "Sajani"},
+          {"period": 7, "subject": "Nepali/English Handwriting", "teacher": "Binod"}
+        ]
+      },
+      "grade_2": {
+        "grade": "2",
+        "stream": "General",
+        "periods": [
+          {"period": 1, "subject": "Nepali", "teacher": "Sushila"},
+          {"period": 2, "subject": "English I", "teacher": "Lila"},
+          {"period": 3, "subject": "Serophero", "teacher": "Sajani"},
+          {"period": 4, "subject": "Serophero", "teacher": "Sajani"},
+          {"period": 5, "subject": "English II/Handwriting", "teacher": "Lila"},
+          {"period": 6, "subject": "Maths", "teacher": "Bachchu"},
+          {"period": 7, "subject": "Nepali/English Handwriting", "teacher": "Sushila"}
+        ]
+      },
+      "grade_1": {
+        "grade": "1",
+        "stream": "General",
+        "periods": [
+          {"period": 1, "subject": "Serophero", "teacher": "Sahanshila"},
+          {"period": 2, "subject": "Serophero", "teacher": "Sahanshila"},
+          {"period": 3, "subject": "English I", "teacher": "Kalpana"},
+          {"period": 4, "subject": "English II/Handwriting", "teacher": "Kamala Baral"},
+          {"period": 5, "subject": "Comp. Maths", "teacher": "Bachchu"},
+          {"period": 6, "subject": "Nepali", "teacher": "Sahanshila"},
+          {"period": 7, "subject": "Nepali/English Handwriting", "teacher": "Devaki"}
+        ]
+      },
+      "ecd_lkg": {
+        "grade": "ECD (LKG)",
+        "stream": "Early Childhood Development",
+        "periods": [
+          {"period": 1, "subject": "English", "teacher": "Samita"},
+          {"period": 2, "subject": "English", "teacher": "Samita"},
+          {"period": 3, "subject": "Nepali", "teacher": "Samita"},
+          {"period": 4, "subject": "Maths", "teacher": "Samita"},
+          {"period": 5, "subject": "Nepali", "teacher": "Samita"},
+          {"period": 6, "subject": "Science", "teacher": "Samita"}
+        ]
+      },
+      "ecd_nursery": {
+        "grade": "ECD (Nursery)",
+        "stream": "Early Childhood Development",
+        "periods": [
+          {"period": 1, "subject": "English", "teacher": "Sunita"},
+          {"period": 2, "subject": "English", "teacher": "Sunita"},
+          {"period": 3, "subject": "Nepali", "teacher": "Sunita"},
+          {"period": 4, "subject": "Maths", "teacher": "Sunita"},
+          {"period": 5, "subject": "Nepali", "teacher": "Sunita"},
+          {"period": 6, "subject": "Science", "teacher": "Sunita"}
+        ]
+      }
+    },
+    
+    "special_notes": [
+      "Teachers of technical stream and science must conduct lab classes regularly",
+      "Bio breaks are mandatory for student health and hygiene",
+      "Lunch break timing is fixed and should not be altered"
+    ]
+  },
+
+  "student_life": {
+    "enrollment_statistics": {
+      "total_enrollment": 1371,
+      "gender_ratio": {"male": "54.3%", "female": "45.7%"},
+      "enrollment_trends": {
+        "2078": 1150,
+        "2079": 1245,
+        "2080": 1320,
+        "2081": 1371,
+        "growth_rate": "6% annually"
+      }
+    }
+  },
+
+  "adarsha_ai_assistant": {
+    "project_name": "Adarsha AI Assistant",
+    "purpose": "Interactive AI-powered information system for Adarsha Secondary School",
+    "launch_date": "2082 B.S.",
+    
+    "development_team": {
+      "lead_developer": {
+        "name": "Sangam Gautam",
+        "class": "9C",
+        "role": "AI/ML Developer & Data Scientist",
+        "expertise": [
+          "Data Science",
+          "Artificial Intelligence",
+          "Machine Learning",
+          "Data Structure and Algorithim",
+          "Python Programming"
+        ]
+      },
+      "hardware_engineer": {
+        "name": "Ankit Chaulagain",
+        "class": "9C",
+        "role": "Physical Construction"
+        
+      },
+      
+      "data_collection_support": {
+        "name": "Er. Tamrakar , Ganesh Sapkota",
+        "role": "Data Collection Coordinator"
+      }
+    },
+    
+    "technical_specifications": {
+      "ai_capabilities": [
+        "Natural language understanding in English and Nepali",
+        "Real-time information retrieval",
+        "Context-aware responses",
+        "Multi-turn conversations",
+        "Voice interaction support"
+      ],
+      "knowledge_base": [
+        "Complete school information database",
+        "Academic programs and curriculum",
+        "Teacher and student information",
+        "Daily routines and schedules",
+        "Exhibition and event details",
+        "Historical data and achievements"
+      ]
+    }
+  },
+
+  "quick_facts": {
+    "at_a_glance": {
+      "founded": "1967 AD",
+      "type": "Government School",
+      "grades": "ECD to 12",
+      "students": 1371,
+      "teachers": 42,
+      "campus_size": "10.2 acres",
+      "affiliation": "NEB, CTEVT",
+      "medium": "English and Nepali",
+      "timing": "10:00 AM - 4:50 PM",
+      "working_days": "Sunday to Friday"
+    }
+  },
+  "exhibition_2082": {
+    "event_name": "Friday Academic Exhibition",
+    "academic_year": "2082 B.S.",
+    "date": "2082/08/05 (November 21, 2025)",
+    "venue": "Adarsha Secondary School, Sanothimi",
+    "type": "Weekly Student Project Exhibition",
+    "purpose": "To demonstrate practical application of theoretical knowledge through hands-on projects",
+    "participating_departments": ["Mathematics", "Science", "English", "Social Studies", "Nepali"],
+    "visitor_categories": ["Parents", "Education Officials", "Community Members", "Other Schools"],
+    
+    "projects": {
+      "mathematics": {
+        "project_id": "MATH_001",
+        "subject": "Mathematics",
+        "title": "Comparison of Volume and Surface Area in Solid Objects",
+        "project_type": "Demonstrative Model with Mathematical Proof",
+        "duration": "1 week preparation",
+        
+        "objectives": [
+          "To understand the relationship between volume and surface area",
+          "To derive formulas for cone and cylinder",
+          "To analyze the effect of combining solid figures",
+          "To visualize 3D geometry concepts"
+        ],
+        
+        "materials_used": [
+          "Cardboard sheets",
+          "Paper",
+          "Measuring instruments",
+          "Mathematical tools"
+        ],
+        
+        "models_created": [
+          {
+            "type": "Separate Cone",
+            "dimensions": "Height: 15cm, Radius: 5cm",
+            "color_coding": "Blue"
+          },
+          {
+            "type": "Separate Cylinder", 
+            "dimensions": "Height: 20cm, Radius: 5cm",
+            "color_coding": "Green"
+          },
+          {
+            "type": "Combined Figure (Cone + Cylinder)",
+            "dimensions": "Total Height: 35cm, Common Radius: 5cm",
+            "color_coding": "Red"
+          }
+        ],
+        
+        "mathematical_calculations": {
+          "formulas_applied": {
+            "cone_volume": "V = (1/3)πr²h",
+            "cone_surface_area": "TSA = πr(r + l) where l = √(r² + h²)",
+            "cylinder_volume": "V = πr²h", 
+            "cylinder_surface_area": "TSA = 2πr(r + h)",
+            "combined_volume": "V_total = V_cone + V_cylinder",
+            "combined_surface_area": "TSA_combined = TSA_cone + TSA_cylinder - 2πr²"
+          },
+          
+          "results": {
+            "separate_cone": {
+              "volume": "130.9 cm³",
+              "surface_area": "282.74 cm²"
+            },
+            "separate_cylinder": {
+              "volume": "1570.8 cm³", 
+              "surface_area": "785.4 cm²"
+            },
+            "combined_figure": {
+              "total_volume": "1701.7 cm³",
+              "total_surface_area": "910.66 cm²",
+              "area_difference": "2πr² = 157.08 cm²"
+            }
+          }
+        },
+        
+        "key_findings": [
+          "Total volume remains constant whether figures are separate or combined",
+          "Combined figure has less surface area by exactly 2πr² due to loss of joining circular faces",
+          "Demonstrates conservation principle in volume but not in surface area"
+        ],
+        
+        "student_presenters": [
+          {"name": "Arpan Rayamajhi", "class": "9A", "role": "Lead Presenter"},
+          {"name": "Prashant Parajuli", "class": "9A", "role": "Mathematical Calculations"},
+          {"name": "Bibek Gautam", "class": "9A", "role": "Model Demonstration"}
+        ],
+        
+        "learning_outcomes": [
+          "Understanding of 3D geometry concepts",
+          "Application of mathematical formulas in real objects",
+          "Analytical thinking about spatial relationships",
+          "Problem-solving skills development"
+        ]
+      },
+      
+      "science": {
+        "project_id": "SCI_001", 
+        "subject": "Science",
+        "title": "Conservation of Environment with Utilization of Water",
+        "project_type": "Working Environmental Model",
+        "duration": "3 weeks preparation",
+        
+        "objectives": [
+          "To demonstrate air purification techniques",
+          "To show water cycle and conservation", 
+          "To illustrate renewable energy generation",
+          "To promote environmental awareness"
+        ],
+        
+        "materials_required": {
+          "electronic_components": [
+            "Water pump (12V DC)",
+            "Battery (12V, 7Ah)", 
+            "Connecting wires",
+            "LED bulbs for indication",
+            "Siren sensor for alerts",
+            "Humidity sensor (DHT11)",
+            "Small DC motor for fan",
+            "Mini turbine generator"
+          ],
+          "construction_materials": [
+            "Cardboard sheets (5 large)",
+            "Thermocol sheets (3 pieces)", 
+            "PVC pipes (various diameters)",
+            "Cotton (500g for filtration)",
+            "Glue and adhesives",
+            "Plastic containers for water storage",
+            "Transparent acrylic sheets"
+          ],
+          "demonstration_materials": [
+            "Agarbatti (incense sticks)",
+            "Dhoop (incense)", 
+            "Colored water for visibility",
+            "pH indicators"
+          ]
+        },
+        
+        "working_principle": {
+          "stage_1": {
+            "process": "Factory simulation using incense to create visible smoke",
+            "purpose": "Demonstrate industrial air pollution",
+            "components": "Smoke chamber with controlled burning"
+          },
+          "stage_2": {
+            "process": "Smoke absorption through fan into carbon absorber box",
+            "mechanism": "Cotton filtration system capturing particulates", 
+            "output": "Purified air released to atmosphere",
+            "efficiency": "Demonstrates 70% particulate removal"
+          },
+          "stage_3": {
+            "process": "Humidifier creates moisture in closed system",
+            "mechanism": "Condensation and cloud formation simulation",
+            "control": "Humidity sensor maintains optimal levels"
+          },
+          "stage_4": {
+            "process": "Condensed water forms artificial rainfall", 
+            "collection": "Water collected in reservoir system",
+            "measurement": "Rain gauge shows precipitation amount"
+          },
+          "stage_5": {
+            "process": "Water flows through mini turbine",
+            "output": "LED lights powered by generated electricity", 
+            "demonstration": "Shows renewable energy conversion"
+          },
+          "stage_6": {
+            "process": "Post-turbine water channeled for irrigation",
+            "demonstration": "Multiple use of water resources",
+            "efficiency": "Zero water wastage principle"
+          }
+        },
+        
+        "scientific_concepts": {
+          "air_quality": {
+            "pollutants_demonstrated": ["Particulate matter", "Carbon particles", "Smoke"],
+            "purification_methods": ["Mechanical filtration", "Absorption"],
+            "measurement": "Visual clarity comparison"
+          },
+          "water_cycle": {
+            "processes": ["Evaporation", "Condensation", "Precipitation", "Collection"],
+            "natural_simulation": "Closed-loop water system"
+          },
+          "energy_conversion": {
+            "types": ["Potential to Kinetic", "Kinetic to Electrical"],
+            "efficiency": "Demonstrates energy conservation principles"
+          }
+        },
+        
+        "environmental_message": {
+          "primary": "Integration of pollution control with resource utilization",
+          "secondary": [
+            "Air quality improvement is achievable",
+            "Water is a renewable but precious resource", 
+            "Clean energy generation is practical",
+            "Environmental conservation and development can coexist"
+          ]
+        },
+        
+        "student_presenters": [
+          {"name": "Sangam Gautam", "class": "9C", "role": "Technical Explanation"},
+          {"name": "Ankit Chaulagain", "class": "9C", "role": "Hardware Operation"},
+          {"name": "Aanish B.C.", "class": "9C", "role": "Environmental Impact"}
+        ],
+        
+        "innovation_aspects": [
+          "Multi-stage environmental process in single model",
+          "Real-time sensor integration", 
+          "Visible demonstration of invisible processes",
+          "Practical solution to environmental challenges"
+        ]
+      },
+      
+      "english": {
+        "project_id": "ENG_001",
+        "subject": "English", 
+        "title": "Parts of Speech - The Building Blocks of Language",
+        "project_type": "Interactive Grammar Display",
+        "duration": "1 week preparation",
+        
+        "objectives": [
+          "To visualize grammatical concepts",
+          "To demonstrate sentence construction", 
+          "To make grammar learning interactive",
+          "To show relationships between parts of speech"
+        ],
+        
+        "content_structure": {
+          "parts_of_speech": [
+            {
+              "name": "Noun",
+              "definition": "A word that names a person, place, thing, or idea",
+              "examples": ["student", "school", "book", "happiness"],
+              "color_code": "Red",
+              "family_role": "The Foundation - Head of the family"
+            },
+            {
+              "name": "Pronoun",
+              "definition": "A word that replaces a noun", 
+              "examples": ["he", "she", "it", "they", "we"],
+              "color_code": "Orange",
+              "family_role": "The Substitute - Stand-in member"
+            },
+            {
+              "name": "Verb",
+              "definition": "A word that shows action or state of being",
+              "examples": ["run", "study", "is", "become"], 
+              "color_code": "Blue",
+              "family_role": "The Action Hero - Makes things happen"
+            },
+            {
+              "name": "Adverb",
+              "definition": "A word that modifies a verb, adjective, or another adverb",
+              "examples": ["quickly", "very", "carefully", "yesterday"],
+              "color_code": "Purple", 
+              "family_role": "The Modifier - Adds detail to actions"
+            },
+            {
+              "name": "Adjective",
+              "definition": "A word that describes or modifies a noun",
+              "examples": ["beautiful", "tall", "five", "intelligent"],
+              "color_code": "Green",
+              "family_role": "The Describer - Adds color to nouns" 
+            },
+            {
+              "name": "Preposition",
+              "definition": "A word that shows relationship between nouns/pronouns and other words",
+              "examples": ["in", "on", "at", "between", "under"],
+              "color_code": "Yellow",
+              "family_role": "The Connector - Shows relationships"
+            },
+            {
+              "name": "Conjunction", 
+              "definition": "A word that joins words, phrases, or clauses",
+              "examples": ["and", "but", "or", "because", "although"],
+              "color_code": "Pink", 
+              "family_role": "The Joiner - Brings everyone together"
+            },
+            {
+              "name": "Interjection",
+              "definition": "A word that expresses emotion",
+              "examples": ["Oh!", "Wow!", "Alas!", "Hurray!"],
+              "color_code": "Brown",
+              "family_role": "The Emotion - Expresses feelings"
+            }
+          ]
+        },
+        
+        "interactive_elements": {
+          "sentence_building_board": {
+            "description": "Magnetic board where visitors create sentences",
+            "word_cards": 200,
+            "color_coded": true,
+            "examples_provided": 20
+          },
+          "digital_quiz": {
+            "platform": "Tablet-based quiz system", 
+            "questions": 50,
+            "difficulty_levels": ["Beginner", "Intermediate", "Advanced"],
+            "instant_feedback": true
+          },
+          "grammar_wheel": {
+            "type": "Spinning wheel game",
+            "activity": "Spin and create sentences with selected part of speech", 
+            "prizes": "Grammar champion certificates"
+          }
+        },
+        
+        "sample_sentences": [
+          {
+            "sentence": "The brilliant students quickly understood the complex grammar.",
+            "breakdown": {
+              "The": "Article (Adjective)",
+              "brilliant": "Adjective", 
+              "students": "Noun",
+              "quickly": "Adverb",
+              "understood": "Verb",
+              "the": "Article (Adjective)",
+              "complex": "Adjective",
+              "grammar": "Noun"
+            }
+          }
+        ],
+        
+        "student_presenters": [
+          {"name": "Angel Dangol", "class": "9A", "role": "Lead Grammar Expert"},
+          {"name": "Aaradhya Bhattrai", "class": "9A", "role": "Interactive Games"},
+          {"name": "Krishtina Pandey", "class": "9A", "role": "Quiz Master"}
+        ]
+      },
+      
+      "social_studies": {
+        "project_id": "SOC_001",
+        "subject": "Social Studies",
+        "title": "Nepal's Architectural Heritage (Nepal Ko Bastukala)", 
+        "project_type": "Cultural Heritage Display with Historical Context",
+        "duration": "2 weeks preparation",
+        
+        "objectives": [
+          "To showcase Nepal's architectural diversity",
+          "To preserve cultural knowledge", 
+          "To demonstrate historical evolution",
+          "To connect architecture with social movements"
+        ],
+        
+        "architectural_styles": {
+          "pagoda_style": {
+            "nepali_name": "प्यागोडा शैली",
+            "characteristics": [
+              "Multi-tiered roofs",
+              "Diminishing floor sizes upward", 
+              "Intricate wood carvings",
+              "Religious symbolism"
+            ],
+            "famous_examples": [
+              "Nyatapola Temple, Bhaktapur",
+              "Pashupatinath Temple, Kathmandu", 
+              "Kumbheshwar Temple, Patan"
+            ],
+            "model_created": {
+              "scale": "1:100",
+              "materials": "Wood and clay",
+              "details": "Five-storied pagoda with traditional carvings"
+            },
+            "historical_period": "Lichhavi and Malla period",
+            "cultural_importance": "Nepal's gift to world architecture"
+          },
+          "dome_style": {
+            "nepali_name": "गुम्बज शैली", 
+            "characteristics": [
+              "Hemispherical dome structure",
+              "Buddhist stupas design",
+              "Eyes of Buddha symbol",
+              "13 steps representing path to enlightenment"
+            ],
+            "famous_examples": [
+              "Boudhanath Stupa", 
+              "Swayambhunath Stupa",
+              "World Peace Pagoda, Pokhara"
+            ],
+            "model_created": {
+              "scale": "1:200",
+              "materials": "Plaster of Paris", 
+              "details": "Complete with prayer flags and eyes"
+            },
+            "historical_period": "Ancient period, renovated in different eras",
+            "religious_significance": "Buddhist pilgrimage sites"
+          },
+          "shikhar_style": {
+            "nepali_name": "शिखर शैली",
+            "characteristics": [
+              "Tall curvilinear tower", 
+              "Stone construction",
+              "Hindu temple architecture", 
+              "Vertical emphasis"
+            ],
+            "famous_examples": [
+              "Krishna Mandir, Patan",
+              "Mahabouddha Temple, Patan", 
+              "Various temples in Kathmandu Valley"
+            ],
+            "model_created": {
+              "scale": "1:150",
+              "materials": "Clay and stone chips",
+              "details": "Ornate carvings and pinnacle"
+            },
+            "historical_period": "Medieval period influence from India",
+            "architectural_influence": "North Indian temple architecture" 
+          }
+        },
+        
+        "historical_context": {
+          "jana_andolan_2062_063": {
+            "title": "People's Movement II",
+            "period": "2062-063 B.S. (2006-2007 AD)",
+            "significance": "Democratic movement that ended monarchy", 
+            "architectural_impact": [
+              "Preservation of cultural sites as national identity",
+              "Conversion of royal palaces to museums",
+              "Increased focus on heritage conservation"
+            ]
+          }
+        },
+        
+        "student_presenters": [
+          {"name": "Yunisha Timsina", "class": "9A", "role": "Cultural Heritage Expert"},
+          {"name": "Manjila Dangol", "class": "9A", "role": "Architecture Demonstrator"}, 
+          {"name": "Swostika Tamang", "class": "9A", "role": "Historical Context"}
+        ]
+      },
+      
+      "nepali": {
+        "project_id": "NEP_001",
+        "subject": "Nepali", 
+        "title": "Nepali Grammar and Literature Exhibition",
+        "project_type": "Language and Literature Comprehensive Display",
+        "duration": "2 weeks preparation",
+        
+        "objectives": [
+          "To demonstrate Nepali grammatical structures",
+          "To showcase Nepali literary excellence", 
+          "To honor notable Nepali personalities",
+          "To promote Nepali language learning"
+        ],
+        
+        "grammar_section": {
+          "padwarga": {
+            "title": "पदवर्ग (Parts of Speech in Nepali)",
+            "categories": [
+              {
+                "name": "नाम (Naam)",
+                "english": "Noun", 
+                "definition": "व्यक्ति, वस्तु, स्थान वा भावको नाम",
+                "examples": ["विद्यालय", "विद्यार्थी", "किताब", "खुशी"]
+              },
+              {
+                "name": "सर्वनाम (Sarwanaam)",
+                "english": "Pronoun",
+                "definition": "नामको सट्टा प्रयोग हुने शब्द", 
+                "examples": ["म", "तिमी", "उ", "हामी", "तिनीहरू"]
+              },
+              {
+                "name": "विशेषण (Bisheshan)",
+                "english": "Adjective",
+                "definition": "नाम वा सर्वनामको विशेषता बताउने",
+                "examples": ["राम्रो", "ठूलो", "सुन्दर", "बुद्धिमान"] 
+              },
+              {
+                "name": "क्रिया (Kriya)",
+                "english": "Verb",
+                "definition": "काम वा अवस्था जनाउने शब्द",
+                "examples": ["पढ्नु", "लेख्नु", "खानु", "सुत्नु"]
+              }
+            ]
+          },
+          
+          "prataya_upasarga": {
+            "prataya": {
+              "definition": "शब्दको अन्त्यमा जोडिने अंश",
+              "examples": [
+                {"base": "पढ", "suffix": "ाइ", "result": "पढाइ"},
+                {"base": "राम्र", "suffix": "ो", "result": "राम्रो"}
+              ]
+            },
+            "upasarga": {
+              "definition": "शब्दको सुरुमा जोडिने अंश", 
+              "examples": [
+                {"prefix": "अ", "base": "सल", "result": "असल"},
+                {"prefix": "प्र", "base": "काश", "result": "प्रकाश"}
+              ]
+            }
+          }
+        },
+        
+        "literature_section": {
+          "jeevani_sahitya": {
+            "title": "जीवनी साहित्य (Biographical Literature)",
+            "featured_personality": {
+              "name": "डा. सन्दुक रुइत (Dr. Sanduk Ruit)",
+              "title": "God of Sight", 
+              "profession": "Ophthalmologist and Humanitarian",
+              "achievements": [
+                "Restored sight to over 130,000 people",
+                "Developed low-cost cataract surgery technique",
+                "Founded Tilganga Institute of Ophthalmology", 
+                "Recipient of numerous international awards"
+              ]
+            }
+          }
+        },
+        
+        "student_presenters": [
+          {"name": "Sarita Tamang", "class": "9A", "role": "Grammar Expert"},
+          {"name": "Bipana Bhujel", "class": "9A", "role": "Literature Presenter"}, 
+          {"name": "Kamal Khatri", "class": "9B", "role": "Dr. Ruit Biography Narrator"}
+        ]
+      }
+    },
+    
+    "technical_facilities": {
+      "computer_engineering_program": {
+        "program_name": "Computer Engineering (Grade 9-12)",
+        "duration": "4 Years (Grade 9 to Grade 12)",
+        "description": "Our flagship program providing comprehensive technical education in computer engineering",
+        
+        "curriculum_structure": {
+          "grade_9": {
+            "subjects": [
+              "Fundamentals of Computer",
+              "Basic Programming Concepts", 
+              "Computer Mathematics",
+              "Electro System",
+              "Web Page Design (WPD)",
+              "C Programming"
+            ]
+          },
+          "grade_10": {
+            "subjects": [
+              "C++ Programming",
+              "Database Management System (DBMS)", 
+              "Customer Relationship Management (CRM)",
+              "Computer Mathematics",
+              "Optional Mathematics"
+            ]
+          },
+          "grade_11": {
+            "subjects": [
+              "Programming in Java",
+              "Computer Organization & Architecture", 
+              "Operating System",
+              "Web & Mobile App Development",
+              "Computer Mathematics",
+              "Physics",
+              "Chemistry"
+            ]
+          },
+          "grade_12": {
+            "subjects": [
+              "Visual Programming",
+              "Computer Network", 
+              "Contemporary Technology",
+              "Software Engineering & Project",
+              "Physics",
+              "Chemistry", 
+              "Mathematics"
+            ]
+          }
+        },
+        
+        "laboratory_facilities": {
+          "computer_programming_lab": {
+            "equipment": "40 computers with modern configuration",
+            "software": ["Java IDE", "C/C++ Compilers", "Web Development Tools", "Database Management Systems"],
+            "capacity": "40 students simultaneously"
+          },
+          "hardware_lab": {
+            "equipment": ["Electronic components", "Circuit boards", "Testing equipment", "Networking devices"],
+            "purpose": "Hands-on hardware and networking practice"
+          }
+        },
+        
+        "core_technical_subjects": [
+          "Computer Programming",
+          "Digital Logic", 
+          "Computer Networks",
+          "Database Management",
+          "Web Development",
+          "Software Engineering",
+          "Computer Graphics", 
+          "System Analysis"
+        ],
+        
+        "certification": {
+          "grade_10": "SLC/SEE Completion Certificate",
+          "grade_12": "Higher Secondary Completion Certificate + Technical Certification"
+        }
+      },
+      
+      "plus_two_programs": {
+        "computer_science": {
+          "program": "+2 Computer Science",
+          "duration": "2 Years",
+          "affiliation": "NEB Certified",
+          "description": "Advanced computer science program focusing on programming, algorithms, and software development",
+          
+          "key_subjects": [
+            "Programming in C/C++",
+            "Object Oriented Programming", 
+            "Data Structures",
+            "Computer Graphics",
+            "Database Management System",
+            "Web Technology"
+          ],
+          
+          "facilities": {
+            "computer_science_lab": "Advanced programming lab with latest software and development tools"
+          }
+        },
+        
+        "management": {
+          "program": "+2 Management", 
+          "duration": "2 Years",
+          "affiliation": "NEB Certified",
+          "description": "Comprehensive business management program covering economics, accounting, marketing, and entrepreneurship",
+          
+          "key_subjects": [
+            "Principles of Management",
+            "Business Mathematics", 
+            "Accounting",
+            "Economics",
+            "Marketing",
+            "Entrepreneurship",
+            "Business Communication"
+          ]
+        }
+      }
+    },
+    
+    
+  
+
+  "school_information": {
+    "basic_info": {
+      "school_name": "Adarsha Secondary School",
+      "nepali_name": "आदर्श माध्यमिक विद्यालय",
+      "address": "Madhyapur Thimi Municipality-2, Sanothimi, Bhaktapur",
+      "phone": "01-6630857",
+      "established": "29 Jestha, 2024 B.S. (June 11, 1967 AD)",
+      "former_name": "Demonstration Multipurpose School (DMPS)"
+    },
+    
+    "historical_background": {
+      "founding": "Established in 2024 B.S. as Demonstration Multi-Purpose School (DMPS)",
+      "key_milestones": [
+        {"year": "2024 B.S.", "event": "Started with grade 6, 30 students as DMPS"},
+        {"year": "2028 B.S.", "event": "First SLC with 17 students (16 passed with distinction)"},
+        {"year": "2029 B.S.", "event": "25 students in SLC with improved results"},
+        {"year": "2040 B.S.", "event": "Started grade 1"},
+        {"year": "2069 B.S.", "event": "Started grade 11"},
+        {"year": "2070 B.S.", "event": "Started grade 12"},
+        {"year": "2074 B.S.", "event": "Started technical education (Computer Engineering) in grade 9"}
+      ],
+      
+      "current_status": {
+        "total_teachers": 36,
+        "administrative_staff": 5,
+        "total_students": 1171,
+        "operating_grades": "ECD to Grade 12"
+      }
+    },
+    
+    "infrastructure": {
+      "location": "Environmentally friendly area in Sanothimi, Bhaktapur",
+      "total_land_area": "1326 ropani",
+      "building_blocks": {
+        "block_a": "27 rooms",
+        "block_b": "5 rooms", 
+        "block_c": "8 rooms",
+        "block_d": "3 rooms",
+        "seminar_hall": "1",
+        "guard_house": "1",
+        "toilets": "29"
+      },
+      
+      "facilities": {
+        "library": "5000+ books with e-library facility",
+        "science_labs": "2 fully equipped laboratories",
+        "computer_labs": "2 labs with 40+ computers",
+        "playground": "Spacious sports ground",
+        "ict_equipment": ["32 Desktop Computers", "7 Laptops", "2 Projectors", "1 Smart Board", "2 Multimedia sets"]
+      }
+    },
+    
+    "academic_programs": {
+      "basic_education": "ECD to Grade 10",
+      "higher_secondary": {
+        "science_stream": "Grade 11-12",
+        "management_stream": "Grade 11-12", 
+        "computer_science": "Grade 11-12",
+        "education_stream": "Grade 11-12",
+        "humanities_stream": "Grade 11-12"
+      },
+      "technical_education": {
+        "computer_engineering": "Grade 9-12 (4-year program)"
+      }
+    },
+    
+    "achievements": {
+      "academic_excellence": "Consistently high SLC/SEE results",
+      "technical_education": "Pioneer in computer engineering education at school level",
+      "infrastructure": "Well-equipped classrooms and laboratories",
+      "community_engagement": "Active participation in community development programs"
+    }
+  },
+
+  "student_records": {
+    "total_students": 1371,
+    "class_wise_distribution": {
+      "ecd": {"male": 15, "female": 7, "total": 22},
+      "grade_1": {"male": 18, "female": 17, "total": 35},
+      "grade_2": {"male": 16, "female": 18, "total": 34},
+      "grade_3": {"male": 24, "female": 17, "total": 41},
+      "grade_4": {"male": 27, "female": 25, "total": 52},
+      "grade_5": {"male": 29, "female": 26, "total": 55},
+      "grade_6": {"male": 32, "female": 32, "total": 64},
+      "grade_7": {"male": 63, "female": 42, "total": 105},
+      "grade_8": {"male": 71, "female": 55, "total": 126},
+      "grade_9": {"male": 96, "female": 85, "total": 181},
+      "grade_10": {"male": 69, "female": 68, "total": 137},
+      "grade_11": {"male": 179, "female": 149, "total": 328},
+      "grade_12": {"male": 106, "female": 104, "total": 210}
+    },
+    
+    "student_lists": {
+      "ecd": [
+        {"roll": 1, "name": "Shurti Kumari Yadav"},
+        {"roll": 2, "name": "Samir Kattel"},
+        {"roll": 3, "name": "Aaryan Thakur"},
+        {"roll": 4, "name": "Keshar Tamang"},
+        {"roll": 5, "name": "Aasish Rokka"},
+        {"roll": 6, "name": "Krishan Kumar Thakur"},
+        {"roll": 7, "name": "Showita Pahari"},
+        {"roll": 8, "name": "Shurite Kumari Yadav"},
+        {"roll": 9, "name": "Bikash Shah"},
+        {"roll": 10, "name": "Ankit Karki"},
+        {"roll": 11, "name": "Shyam Mistry"},
+        {"roll": 12, "name": "Bir Bahadur Shah"},
+        {"roll": 13, "name": "Khadananda Dhamala"},
+        {"roll": 14, "name": "Khurahri Dhamala"},
+        {"roll": 15, "name": "Rakish Gharti"},
+        {"roll": 16, "name": "Rosika Tamang"},
+        {"roll": 17, "name": "Resham Muktan"},
+        {"roll": 18, "name": "Pratiksha Bhandari"},
+        {"roll": 19, "name": "Allas Kapali"},
+        {"roll": 20, "name": "Rojen Tamang"},
+        {"roll": 21, "name": "Ronika Chaudhary"},
+        {"roll": 22, "name": "Samir Yonjan"}
+      ],
+      
+      "grade_9c_technical": [
+        {"roll": 1, "name": "Anush Giri"},
+        {"roll": 2, "name": "Ibrahim Ansari"},
+        {"roll": 3, "name": "Aanish B.C"},
+        {"roll": 4, "name": "Samiya Lama"},
+        {"roll": 5, "name": "Niraj Khadka"},
+        {"roll": 6, "name": "Nishan Katwal"},
+        {"roll": 7, "name": "Simon Deula"},
+        {"roll": 8, "name": "Abhiyan Giri"},
+        {"roll": 9, "name": "Binita Bharati"},
+        {"roll": 10, "name": "Nisha bharati"},
+        {"roll": 11, "name": "Alisha Luitel"},
+        {"roll": 12, "name": "Aabbushan dahal"},
+        {"roll": 13, "name": "Sapana Rokka"},
+        {"roll": 14, "name": "Sital Sunuwar"},
+        {"roll": 15, "name": "Sugam Parajuli"},
+        {"roll": 16, "name": "Saugat Gautam"},
+        {"roll": 17, "name": "Anupam Bastola"},
+        {"roll": 18, "name": "Samten lama"},
+        {"roll": 19, "name": "Shreya Chaudhary"},
+        {"roll": 20, "name": "kriti Sunar"},
+        {"roll": 21, "name": "ashma gole"},
+        {"roll": 22, "name": "Shardha Gautam"},
+        {"roll": 23, "name": "Resha karki"},
+        {"roll": 24, "name": "Kundan Kumar Sah"},
+        {"roll": 25, "name": "Rimisha Adhikari"},
+        {"roll": 26, "name": "Naresh Budha"},
+        {"roll": 27, "name": "Sangam Pariyar"},
+        {"roll": 28, "name": "Sachindra Shrestha"},
+        {"roll": 29, "name": "Jens Thapa"},
+        {"roll": 30, "name": "Dipesh Basnet"},
+        {"roll": 31, "name": "Bikesh Basnet"},
+        {"roll": 32, "name": "Bishal Mandal"},
+        {"roll": 33, "name": "Bijay B.k"},
+        {"roll": 34, "name": "Pasang Lamho"},
+        {"roll": 35, "name": "Anisha Khadka"},
+        {"roll": 36, "name": "Shahabaj Ansari"},
+        {"roll": 37, "name": "Barsa Pahari"},
+        {"roll": 38, "name": "Badal Pahari"},
+        {"roll": 39, "name": "Rihana Baral"},
+        {"roll": 40, "name": "Dharbendra Shahi"},
+        {"roll": 41, "name": "Subash Ruma"},
+        {"roll": 42, "name": "Utsav Dhakal"},
+        {"roll": 43, "name": "Nikesh Siwakoti"},
+        {"roll": 44, "name": "Prajwal Tamang"},
+        {"roll": 45, "name": "Manisha Bishwokarma"},
+        {"roll": 46, "name": "Ankita Sashankar"},
+        {"roll": 47, "name": "Renuka Chaulagain"},
+        {"roll": 48, "name": "Saujat Bohara"}
+      ]
+    }
+  },
+
+  "clubs_and_committees": {
+    "children_club": {
+      "committee_members": [
+        {"position": "Chairperson", "name": "Chalgana Khadka", "grade": "9 B"},
+        {"position": "Vice Chairperson", "name": "Baidhyanath Shah", "grade": "8 B"},
+        {"position": "Secretary", "name": "Vigyan Paudel", "grade": "9 C"},
+        {"position": "Co-Secretary", "name": "Sandesh Kumar Shah", "grade": "9 C"},
+        {"position": "Treasurer", "name": "Talak Rokaya", "grade": "9 B"}
+      ],
+      
+      "teacher_coordinators": [
+        {"name": "Sujana Gasi Shrestha", "role": "Focal Person"},
+        {"name": "Janaki Malla Shrestha", "role": "Assistant"},
+        {"name": "Babita Thapa", "role": "Assistant"},
+        {"name": "Kamala Pande Thakuri", "role": "Assistant"},
+        {"name": "Sarita K.C.", "role": "Assistant"},
+        {"name": "Muna Khanal", "role": "Assistant"},
+        {"name": "Sunil Shrestha", "role": "Assistant"},
+        {"name": "Sajani Pradhan", "role": "Assistant"}
+      ]
+    },
+    
+    "junior_red_cross": {
+      "advisory_committee": [
+        {"position": "Advisor", "name": "Principal", "role": "Parent Representative"},
+        {"position": "Teacher Coordinator", "name": "Safal Shrestha", "role": "Teacher, Student"},
+        {"position": "Teacher Co-coordinator", "name": "Dil Kumari Adhikari", "role": "Teacher, Student"}
+      ],
+      
+      "student_committee": [
+        {"position": "Chairperson", "name": "Ashok Kumar Thapa", "members": "10 Female"},
+        {"position": "Vice Chairperson", "name": "Laxman B.K.", "members": "8 Male"},
+        {"position": "Secretary", "name": "Laxmi Shrestha", "members": "8 Female"},
+        {"position": "Vice Secretary", "name": "Ashok Nepal", "members": "7 Male"}
+      ]
+    }
+  },
+
+  "administration": {
+    "principal": {
+      "name": "Ram Babu Regmi",
+      "qualification": "M.Ed., M.Phil. (Educational Leadership)",
+      "experience": "28 years in education",
+      "tenure_start": "2079 B.S."
+    },
+    
+    "vice_principal": {
+      "name": "Tanka Nath Acharya", 
+      "experience": "24 years",
+      "responsibilities": ["Academic coordination", "Discipline management", "Teacher supervision"]
+    },
+    
+    "teaching_staff": {
+      "total_teachers": 42,
+      "department_heads": {
+        "science": "Mr. Ramsharan Regmi",
+        "mathematics": "Mr. Ganesh Poudel", 
+        "computer": "Mr. Bikesh Poudel",
+        "language": "Ms. Sarita K.C.",
+        "social_studies": "Mr. Shekhar Pandey",
+        "management": "Mr. Ram Babu Regmi"
+      }
+    }
+  },
+
+  "response_templates": {
+    "exhibition_queries": [
+      {
+        "question_patterns": ["exhibition", "project", "display", "showcase"],
+        "response": "We are currently hosting our Friday Academic Exhibition featuring 5 major projects from different subjects. Would you like to know about specific projects in Mathematics, Science, English, Social Studies, or Nepali?"
+      },
+      {
+        "question_patterns": ["mathematics project", "volume surface area", "cone cylinder"],
+        "response": "Our Mathematics project demonstrates the comparison of volume and surface area in solid objects. Students have created separate and combined models of cones and cylinders to show that while total volume remains constant, surface area changes by 2πr² when figures are combined."
+      },
+      {
+        "question_patterns": ["science project", "environment", "water conservation", "pollution"],
+        "response": "The Science project showcases environmental conservation with water utilization. It's a working model that simulates air purification, cloud formation, rainfall, and hydroelectric generation - demonstrating how we can integrate pollution control with resource utilization."
+      },
+      {
+        "question_patterns": ["technical education", "computer engineering", "grade 9-12 program"],
+        "response": "We offer a comprehensive 4-year Computer Engineering program from Grade 9 to 12. This flagship technical education program covers programming, hardware, networking, and software development with fully equipped computer labs and industry-relevant curriculum."
+      }
+    ],
+    
+    "general_queries": [
+      {
+        "question_patterns": ["school established", "when founded", "history"],
+        "response": "Adarsha Secondary School was established on 29 Jestha, 2024 B.S. (June 11, 1967 AD) as Demonstration Multipurpose School (DMPS). We have been providing quality education for over 50 years."
+      },
+      {
+        "question_patterns": ["total students", "how many students", "enrollment"],
+        "response": "Currently we have 1371 students from ECD to Grade 12, with 745 male and 626 female students. Our technical stream in Computer Engineering has 48 students in Grade 9C."
+      },
+      {
+        "question_patterns": ["facilities", "labs", "infrastructure"],
+        "response": "We have excellent infrastructure including 2 computer labs, science laboratories, a library with 5000+ books, spacious playground, and well-equipped classrooms. Our technical facilities support our Computer Engineering program from Grade 9-12."
+      }
+    ]
+  }
+}
+}
