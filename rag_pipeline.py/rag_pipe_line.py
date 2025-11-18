@@ -34,7 +34,7 @@ class SchoolRAGPipeline:
         try:
             self.groq_client = Groq(api_key=self.groq_api_key)
             self.groq_model = groq_model
-            print(f"✓ Groq Model: {groq_model}")
+            
         except Exception as e:
             raise ConnectionError(f"❌ Groq Connection Error: {str(e)}")
         
