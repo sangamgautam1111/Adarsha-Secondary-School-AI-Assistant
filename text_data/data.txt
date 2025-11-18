@@ -1,0 +1,577 @@
+## SECTION 1: INSTITUTIONAL PROFILE AND HISTORY
+**Official Name:** Adarsha Secondary School
+**Nepali Name:** आदर्श माध्यमिक विद्यालय
+**Former Names:** Demonstration Multipurpose School (DMPS), Adarsha Vocational Secondary School.
+**Establishment:** Founded on 29 Jestha, 2024 B.S. (June 11, 1967 AD).
+**Inauguration:** Inaugurated by His Majesty King Mahendra Bir Bikram Shah Dev.
+**Founding Partners:** United States Agency for International Development (USAID) and Government of Nepal (Ministry of Education).
+**Founding Vision:** To establish a model educational institution demonstrating modern pedagogical practices and multipurpose education combining academic excellence with vocational training.
+**Initial Investment:** NPR 2.5 million (1967 value).
+
+**Institutional Codes:**
+- School Code: 26405
+- NEB Code: 26405001
+- CTEVT Code: CTEVT-BKT-045
+- PAN Number: 301234567
+- Registration Number: EDU/BKT/2024/001
+
+**Affiliations:** National Examination Board (NEB), Council for Technical Education and Vocational Training (CTEVT), Ministry of Education, Science and Technology.
+**Certifications:** ISO 9001:2015 Certified, Green School Certification, Child-Friendly School Recognition, Technical Education Quality Assurance.
+
+## SECTION 2: LOCATION AND INFRASTRUCTURE
+**Address:** Madhyapur Thimi Municipality, Ward Number 2, Sanothimi, Bhaktapur, Bagmati Pradesh, Nepal.
+**Postal Code:** 44600.
+**Coordinates:** Latitude 27°40'42.24"N, Longitude 85°22'55.20"E.
+**Elevation:** 1326 meters above sea level.
+
+**Campus & Land:**
+- Total Area: 67,986 square meters (10.2 acres / 1326 ropani).
+- Ownership: Government of Nepal.
+- Boundaries: North (Residential), South (Hanumante River), East (CTEVT), West (Manohara River).
+- Usage: 35% Built Area, 25% Playground, 20% Green Space.
+
+**Nearby Landmarks:**
+- Education: CTEVT Central Office (500m), Sanothimi Campus (300m).
+- Culture: Balkumari Temple (1km), Siddhi Ganesh Temple (1.2km).
+
+**Accessibility:**
+- Bus Routes: From Ratnapark, Kamalvinayak, and Koteshwor.
+- Nearest Stop: Sanothimi Chowk (200m).
+
+## SECTION 3: FACILITIES AND AMENITIES
+Adarsha Secondary School provides state-of-the-art facilities to support its status as a model technical school.
+
+**Academic Facilities:**
+*   **ICT & Computer Labs:** Two fully equipped computer laboratories with high-speed internet. These labs support the Computer Engineering stream (Grades 9-12) and general computer science.
+*   **Science Laboratories:** Three distinct laboratories for Physics, Chemistry, and Biology, fully stocked for practical experiments.
+*   **Library:** A comprehensive library containing over 5,000 books, including course textbooks, reference materials, and Nepali literature.
+*   **Smart Classrooms:** Select classrooms, particularly for senior and technical grades, are equipped with Smart Boards and projectors.
+
+**Physical & Support Facilities:**
+*   **Sports:** A spacious football ground, volleyball court, badminton court, and an indoor table tennis hall.
+*   **Multipurpose Hall:** Used for seminars, the Friday Academic Exhibitions, and cultural programs.
+*   **Health Services:** An infirmary staffed by School Nurse **Sareena Shrestha**.
+*   **Safety:** Newer buildings are earthquake-resistant. The campus is monitored by CCTV.
+*   **Utilities:** Clean filtered drinking water and a hygienic cafeteria are available.
+
+## SECTION 4: ADMINISTRATION
+**Principal:** Mr. Ram Babu Regmi (M.Ed., M.Phil. in Educational Leadership). He specializes in Educational Administration and has 28 years of experience.
+**Vice Principal:** Mr. Tanka Nath Acharya (24 years experience). Handles discipline and teacher supervision.
+**Academic Coordinator:** Ms. Kamala Pandey Thakuri.
+**School Management Committee:** Chaired by Mr. Rajendra Prasad Shrestha (Local Education Officer). Meets monthly on the first Saturday.
+
+## SECTION 5: ACADEMIC DEPARTMENTS AND STAFF
+**Teaching Staff Overview:** 42 Total Faculty (24 Male, 18 Female).
+**Department Heads:**
+- **Science:** Ramsharan Regmi.
+- **Math:** Ganesh Pathak.
+- **Computer:** Er. Bikesh Shrestha.
+- **Language:** Sarita KC.
+- **Social Studies:** Shekhar Parajuli.
+- **Management:** Ram Babu Regmi.
+
+**Technical Stream (Computer Engineering):**
+- Headed by Er. Tri Mandir Prajapati and Er. Bikesh Shrestha.
+- Instructors: Er. Aakash Koirala, Er. Kamal Tamrakar, Er. Ganesh Sapkota, Er. Bharat Chaudhary.
+- Curriculum (9-12): Covers C/C++, Java, Web Design, DBMS, Networks, and Software Engineering. Certification includes CTEVT Technical SLC.
+
+**Staff Welfare:**
+Includes Provident Fund, Medical Insurance, Festival Allowance, and Children's Education Discount.
+
+## SECTION 6: ADARSHA AI ASSISTANT PROJECT
+**Project Title:** Adarsha School AI Assistant - Revolutionary Student-Led Innovation
+**Project Overview:** A cutting-edge Artificial Intelligence system developed entirely by students to serve as an intelligent school information assistant. This is the first AI-powered school assistant in Bhaktapur district.
+**Launch Date:** 2082 B.S.
+**Project Vision:** To demonstrate student capability in advanced technology and provide 24/7 intelligent assistance for school-related queries.
+
+**THE CREATOR & DEVELOPMENT TEAM:**
+
+**Project Leader & Full AI Creator:**
+**Sangam Gautam** - Grade 9C, Roll 2, 
+- **Role:** Complete AI Creator, Lead Developer, and Project Architect
+- **Expertise:** Brilliant AI/ML specialist with exceptional skills in Data Science, Deep Learning, and DSA (Data Structures & Algorithms)
+- **Responsibilities:** 
+  * Entire AI model training and optimization
+  * Complete software architecture and coding
+  * RAG (Retrieval-Augmented Generation) pipeline development
+  * Vector database design and implementation
+  * Natural Language Processing integration
+  * Data collection, processing, and integration
+  * System testing and deployment
+  * API integration with Groq LLM
+  * Embedding model implementation
+- **Technical Achievement:** Single-handedly built the complete AI system from scratch including:
+  * Custom RAG pipeline with ChromaDB vector store
+  * Sentence transformer embedding implementation
+  * Query optimization and context retrieval system
+  * Groq API integration for response generation
+  * Multi-strategy text chunking for maximum accuracy
+  * Intelligent query preprocessing
+- **Skills Demonstrated:** Python Programming, Machine Learning, AI/ML, Data Science, Vector Databases, NLP, System Architecture, Algorithm Design
+
+**Hardware & Physical Construction Team:**
+- **Bipin Khadka** - Physical Robot Construction 
+- **Responsibilities:** Robot body design, structural engineering
+
+
+**Ankit Chaulagain** - Grade 9C
+- **Role:** Hardware Integration Specialist  
+- **Responsibilities:** Electronic components integration, wiring, sensors installation
+- **Contribution:** Connected all electronic parts and ensured hardware functionality
+
+**Ayushree Karki** - Grade 10C
+- **Role:** Construction Assistant & Design Coordinator
+- **Responsibilities:** Robot aesthetics, paint work, final assembly
+- **Contribution:** Enhanced visual appearance and coordinated final construction
+
+**Technical Support (Data Provision):**
+- **Er. Kamal Tamrakar:** Helped With Data Collection
+- **Er. Ganesh Sapkota:** Provided School Data
+
+**Project Significance:**
+This project showcases the extraordinary capabilities of Nepali students in cutting-edge AI technology. Sangam Gautam's brilliant work in AI/ML demonstrates world-class technical skills at the school level. The project combines advanced artificial intelligence with practical robotics, representing the future of educational technology in Nepal.
+
+**Technologies Used:**
+- Python Programming Language
+- ChromaDB Vector Database
+- Sentence Transformers 
+- RAG (Retrieval-Augmented Generation) Architecture
+- Natural Language Processing
+- Machine Learning Embeddings
+
+**Recognition:**
+Sangam Gautam is recognized as the most talented AI/ML student in the school with brilliant skills in Data Science and Algorithm Design. His work on this project has set a new standard for student innovation in Adarsha Secondary School.
+
+
+## SECTION 7: FRIDAY EXHIBITION 2025 PROJECTS
+
+**Event Details:**
+**Date:** November 21, 2025
+**Day:** Friday
+**Event Name:**Friday Exhibition
+**Focus:** Student Projects and Practical Demonstrations
+
+**Subject: Mathematics Project**
+**Project Title:** Comparison of Volume and Surface Area in Solid Objects
+**Project Goal:** To find formulas to calculate Surface Area and Volume of a cone and cylinder separately versus combined.
+**Process:**
+1. Separate solid objects of a cone and a cylinder are formed.
+2. A combined figure of a cone and a cylinder is also formed.
+3. We calculate the Area and Volume of the separate figures.
+4. Finally, find the Volume and Surface Area of the Combined Figure.
+**Key Finding (Conclusion):** There is no difference in the total volume when figures are separate or combined. However, there is a difference in the Total Surface Area (TSA) by 2πr². This happens because the combined figure loses the area of the circular face where the cone and cylinder join.
+
+**Subject: Science Project**
+**Project Title:** Conservation of Environment with Utilization of Water
+**Materials Required:** Water, water pump, battery, connecting wires, cardboard, thermocol, leveller, PVC pipe, cotton, glue, dead bulb, siren sensor, humidity sensor.
+**Working Principle:**
+The model simulates a factory producing polluted air (burning agarbatti/dhoop). This smoke is absorbed by a fan and motor into a "carbon absorber box".
+The carbon absorber box contains cotton, which filters carbon and other impurities, converting the smoke into fresh air.
+An air pump then pushes this purified air outside. In an artificial atmosphere, a humidifier maintains humidity to form a closed cloud system, which produces rainfall.
+**Applications:** The collected water is stored in a reservoir and used to generate electricity via a turbine. After electricity production, the water is used for irrigation.
+
+**Subject: English Project**
+**Topic:** Parts of Speech (The Sentence Family)
+**Description:** This project visualizes the eight parts of speech as "family members" that build a complete sentence.
+**The 8 Parts:**
+1. Noun
+2. Pronoun
+3. Verb
+4. Adverb
+5. Adjective
+6. Preposition
+7. Conjunction
+8. Interjection
+
+**Subject: Social Studies (Samajik) Project**
+**Topic:** Nepal's Architecture (Nepal Ko Bastukala)
+**Content:** The project displays the main architectural styles of Nepal.
+**Architectural Styles:**
+- Pagoda Style (Pyagoda Saili)
+- Dome Style (Gumbaj Saili)
+- Shikhar Style (Shikhar Saili)
+**Historical Context:** The project also references the People's Movement (Jana Andolan) of 2062-063 BS.
+
+**Subject: Nepali Project**
+**Topic:** Nepali Grammar and Literature
+**Grammar (Padwarga):** Naam (Noun), Sarwanaam (Pronoun), Bisheshan (Adjective), Kriya (Verb), Kriya-Bisheshan (Adverb), Sambandha-Bodak (Preposition), Samuchchaya-Bodak (Conjunction), Bismayaadi-Bodak (Interjection).
+**Additional Topics:**
+- Prataya and Upasarga (Suffixes and Prefixes)
+- Aakar and Aikar
+- Kaal and Paryog (Tense and Voice)
+**Literature:** The project features Biographical Literature (Jeevani Sahitya) of Dr. Sanduk Ruit, the renowned eye doctor who restored sight to thousands.
+
+## SECTION 8: DAILY ROUTINE AND CLASS SCHEDULES (2082 REVISED)
+**Effective Date:** 2082/02/01 B.S.
+**Routine Type:** Revised Daily Operational Routine for ECD to Grade 10.
+**Note:** Teachers of technical stream and science must conduct lab classes regularly.
+
+**Timing Breakdown:**
+*   **1st Period:** 10:15 – 11:00
+*   **2nd Period:** 11:00 – 11:40
+*   **Bio Break:** 11:40 – 11:50
+*   **3rd Period:** 11:50 – 12:30
+*   **4th Period:** 12:30 – 1:15
+*   **Lunch Break:** 1:15 – 1:45
+*   **5th Period:** 1:45 – 2:30
+*   **6th Period:** 2:30 – 3:10
+*   **Bio Break:** 3:10 – 3:20
+*   **7th Period:** 3:15 – 4:00
+*   **8th Period:** 4:05 – 4:50
+
+**Class-wise Routine:**
+
+**Grade 10 A Schedule:**
+*   Period 1: Science (Ramsharan)
+*   Period 2: Social Studies (Shekhar)
+*   Period 3: English I/II (Tanka)
+*   Period 4: Comp. Maths (Ganesh P)
+*   Period 5: Opt. I Maths/Eco (Sujan/Rambabu)
+*   Period 6: Opt. II Computer/Accounting (Akash/Kashi)
+*   Period 7: Nepali (Sarita)
+*   Period 8: No Class
+
+**Grade 10 B Schedule:**
+*   Period 1: Science (Dhansingh)
+*   Period 2: Nepali (Sarita)
+*   Period 3: Comp. Maths (Ramsharan)
+*   Period 4: Social Studies (Shekhar)
+*   Period 5: Opt. I Maths/Eco (Sujan/Rambabu)
+*   Period 6: Opt. II Computer/Accounting (Akash/Kashi)
+*   Period 7: English I/II (Tanka)
+*   Period 8: No Class
+
+**Grade 10 C (DDMP GS - Technical Stream) Schedule:**
+*   Period 1: Nepali (Kaushal)
+*   Period 2: Science (Dhansingh)
+*   Period 3: Comp. Maths (Prabin)
+*   Period 4: C++ (Trimandir)
+*   Period 5: Opt. Maths (Ganesh P)
+*   Period 6: English I/II (Kamala P)
+*   Period 7: CRM (Kamal)
+*   Period 8 (Last Period): DBMS (Bikesh)
+
+**Grade 9 A Schedule:**
+*   Period 1: Comp. Maths (Ganesh P)
+*   Period 2: Opt. II Computer/Accounting (Bharat/Kashi)
+*   Period 3: Social Studies (Bachchu)
+*   Period 4: Science (Ramsharan)
+*   Period 5: Nepali (Sarita)
+*   Period 6: English I/II (Nanu)
+*   Period 7: Opt. I Maths/Eco (Sujan/Rambabu)
+*   Period 8: No Class
+
+**Grade 9 B Schedule:**
+*   Period 1: Social (Muna)
+*   Period 2: Opt. II Computer/Accounting (Bharat/Kashi)
+*   Period 3: Science (Bibek)
+*   Period 4: Nepali (Sarita)
+*   Period 5: English I/II (Shobha)
+*   Period 6: Comp. Maths (Ramsharan)
+*   Period 7: Opt. I Maths/Eco (Sujan/Rambabu)
+*   Period 8: No Class
+
+**Grade 9 C (Technical Stream) Schedule:**
+*   Period 1: Maths (Prabin)
+*   Period 2: Fundamentals of Computer (Kamal)
+*   Period 3: English I/II (Kamala P)
+*   Period 4: Comp. Maths (Prabin)
+*   Period 5: Electro System (Ganesh S)
+*   Period 6: WPD - Web Page Design (Bikesh)
+*   Period 7: Opt. Maths (Bibek)
+*   Period 8: Nepali (Kaushal)
+*   Period 9 (Last Period): C Programming (Aakash)
+
+**Grade 8 A Schedule:**
+*   Period 1: Nepali (Babita)
+*   Period 2: Comp. Maths (Ganesh P)
+*   Period 3: English I/II (Nanu)
+*   Period 4: Health (Days 1-3) / OM (Days 4-6) (Bibek)
+*   Period 5: Science (Dhansingh)
+*   Period 6: Social Studies/Local (Muna)
+*   Period 7: Computer (Bikesh)
+*   Period 8: No Class
+
+**Grade 8 B Schedule:**
+*   Period 1: Social/Local (Shekhar)
+*   Period 2: Science (Sujan)
+*   Period 3: Nepali (Kaushal)
+*   Period 4: Computer (Aakash)
+*   Period 5: English I/II (Kamala P)
+*   Period 6: Maths (Kamala Pun)
+*   Period 7: Health/OM (Muna for days 1-3, Bibek for days 4-5)
+*   Period 8: No Class
+
+**Grade 7 A Schedule:**
+*   Period 1: Social/Local (Bachchu)
+*   Period 2: Computer (Kamal)
+*   Period 3: Comp. Maths (Kamala Pun)
+*   Period 4: English I/II (Nanu)
+*   Period 5: Nepali (Devaki)
+*   Period 6: Science (Dhansingh)
+*   Period 7: Health (Anju)
+*   Period 8: No Class
+
+**Grade 7 B Schedule:**
+*   Period 1: General Computer (Ganesh S)
+*   Period 2: Social/Local (Muna)
+*   Period 3: English I/II (Kamala P)
+*   Period 4: Science (Sujan)
+*   Period 5: Comp. Maths (Kamala Pun)
+*   Period 6: Health (Binod)
+*   Period 7: Nepali (Babita)
+*   Period 8: No Class
+
+**Grade 6 A Schedule:**
+*   Period 1: Maths (Kamala Pun)
+*   Period 2: English I/II (Nanu)
+*   Period 3: Computer (Kamala B)
+*   Period 4: Health (Yoshada)
+*   Period 5: Science (Bibek)
+*   Period 6: Nepali (Sushila)
+*   Period 7: Social/Local (Shekhar)
+*   Period 8: No Class
+
+**Grade 6 B Schedule:**
+*   Period 1: Comp. Maths (Pramila)
+*   Period 2: Nepali (Devaki)
+*   Period 3: English I/II (Shova)
+*   Period 4: Health (Binod)
+*   Period 5: Science (Babita)
+*   Period 6: Social/Local (Kamala B)
+*   Period 7: Computer (Sunil)
+*   Period 8: No Class
+
+**Grade 5 Schedule:**
+*   Period 1: English I (Anju)
+*   Period 2: Science (Aakash)
+*   Period 3: Health (Binod)
+*   Period 4: Nepali (Devaki)
+*   Period 5: Comp. Maths (Pramila)
+*   Period 6: English II/HW (Lila)
+*   Period 7: Social (Kalpana)
+*   Period 8: No Class
+
+**Grade 4 Schedule:**
+*   Period 1: English II/HW (Lila)
+*   Period 2: English I (Anju)
+*   Period 3: Science (Babita)
+*   Period 4: Comp. Maths (Pramila)
+*   Period 5: Nepali (Sahanshila)
+*   Period 6: Social (Kalpana)
+*   Period 7: Health (Kamala B)
+*   Period 8: No Class
+
+**Grade 3 Schedule:**
+*   Period 1: English II (Kalpana)
+*   Period 2: Comp. Maths (Pramila)
+*   Period 3: Nepali (Sushila)
+*   Period 4: English I/HW (Anju)
+*   Period 5: Serophero (Sajani)
+*   Period 6: Serophero (Sajani)
+*   Period 7: Nepali/English HW (Binod)
+*   Period 8: No Class
+
+**Grade 2 Schedule:**
+*   Period 1: Nepali (Sushila)
+*   Period 2: English I (Lila)
+*   Period 3: Serophero (Sajani)
+*   Period 4: Serophero (Sajani)
+*   Period 5: English II/HW (Lila)
+*   Period 6: Maths (Bachchu)
+*   Period 7: Nepali/English HW (Sushila)
+*   Period 8: No Class
+
+**Grade 1 Schedule:**
+*   Period 1: Serophero (Sahanshila)
+*   Period 2: Serophero (Sahanshila)
+*   Period 3: English I (Kalpana)
+*   Period 4: English II/HW (Kamala Baral)
+*   Period 5: Comp. Maths (Bachchu)
+*   Period 6: Nepali (Sahanshila)
+*   Period 7: Nepali/English Handwriting (Devaki)
+*   Period 8: No Class
+
+**ECD (LKG) Schedule:**
+*   Period 1: English (Samita)
+*   Period 2: English (Samita)
+*   Period 3: Nepali (Samita)
+*   Period 4: Maths (Samita)
+*   Period 5: Nepali (Samita)
+*   Period 6: Science (Samita)
+
+**ECD (Nursery) Schedule:**
+*   Period 1: English (Sunita)
+*   Period 2: English (Sunita)
+*   Period 3: Nepali (Sunita)
+*   Period 4: Maths (Sunita)
+*   Period 5: Nepali (Sunita)
+*   Period 6: Science (Sunita)
+
+## SECTION 9: STAFF DIRECTORY (FULL LIST)
+1. Ram Babu Regmi - Principal
+2. Tanka Nath Acharya - Vice Principal
+3. Kashi Bhakta Kayastha - Teacher
+4. Sarita KC - Teacher
+5. Ramsharan Regmi - Teacher
+6. Dhan Singh Dhant - Teacher
+7. Kausal Kumar Rayamajhee - Teacher
+8. Ganesh Pathak - Teacher
+9. Bibek Luitel - Teacher
+10. Er. Tri Mandir Prajapati - Computer Instructor
+11. Er. Bharat Chaudhary - Computer Instructor
+12. Yashoda Praapati - Chemistry Teacher
+13. Prabin Neupane - Physics Teacher
+14. Shova Rijal - Teacher
+15. Er. Bikesh Shrestha - Head of Computer Dept
+16. Er. Aakash Koirala - Computer Instructor
+17. Sujan Gasi Shrestha - Teacher
+18. Nanu Baral - Teacher
+19. Kamala Pandey - Teacher
+20. Shekhar Parajuli - Head of Social Studies
+21. Debaki Ghimire - Teacher
+22. Muna Adhikari - Teacher
+23. Kamala Pun Magar - Teacher
+24. Er. Ganesh Sapkota - Computer Instructor
+25. Sajani Pradhan - Teacher
+26. Sahanshila Kumari Aryal - Teacher
+27. Lila Devi Niraula - Teacher
+28. Sushial Koirala - Teacher
+29. Bachchu Parajuli - Teacher
+30. Babita Thapa - Teacher
+31. Anju Giri - Teacher
+32. Kalpana Karki - Teacher
+33. Binod Thakuri - Teacher
+34. Pramila K.C. - Teacher
+35. Kamala Kumari Baral - Teacher
+36. Er. Kamal Tamrakar - Computer Instructor
+37. Sareena Shrestha - School Nurse
+38. Sunil Shrestha - Lab Assistant
+39. Bhim Dev Bhatt - Librarian
+40. Sunita Dawadi - ECD Teacher
+41. Samita Gurung Prajapati - ECD Teacher
+42. Sanukaji Shrestha - Office Helper
+43. Krishnalal Madi Shrestha - Office Helper
+44. Amrita Gyanwali - Office Helper
+45. Laxmi Tamang - Office Helper
+
+## SECTION 10: STUDENT DATABASE (ROLL CALL)
+**Grade ECD Students:**
+Shurti Kumari Yadav (Roll 1), Samir Kattel (Roll 2), Aaryan Thakur (Roll 3), Keshar Tamang (Roll 4), Aasish Rokka (Roll 5), Krishan Kumar Thakur (Roll 6), Showita Pahari (Roll 7), Shurite Kumari Yadav (Roll 8), Bikash Shah (Roll 9), Ankit Karki (Roll 10), Shyam Mistry (Roll 11), Bir Bahadur Shah (Roll 12), Khadananda Dhamala (Roll 13), Khurahri Dhamala (Roll 14), Rakish Gharti (Roll 15), Rosika Tamang (Roll 16), Resham Muktan (Roll 17), Pratiksha Bhandari (Roll 18), Allas Kapali (Roll 19), Rojen Tamang (Roll 20), Ronika Chaudhary (Roll 21), Samir Yonjan (Roll 22).
+
+**Grade 1 Students:**
+Shauraj Khadka (Roll 1), Nihang Rai (Roll 2), Subash Ghising (Roll 3), Ragini Kumari Shah (Roll 4), Aashika Tamang (Roll 5), Shiwani Shah (Roll 6), Priyanshukuk Yadav (Roll 7), Alisha Bhujel (Roll 8), Sakshyama Khatri (Roll 9), Nikita Dahal (Roll 10), Ranjita Ghising (Roll 11), Aaradhna Shrestha (Roll 12), Rani Kumari Paswan (Roll 13), Prasamsa Dubey (Roll 14), Ashim Rai (Roll 15), Surat Lama (Roll 16), Arun Shrestha (Roll 17), Namrata Bhujel (Roll 17), Anamol Sunuwar (Roll 18), Akash Jaiswal (Roll 20), Tanuja Basnet (Roll 21), Krish Moktan (Roll 22), Prasansha Tharu (Roll 23), Lina Kapali (Roll 24), Subin Rokka (Roll 25), Niti Ghale (Roll 27), Pratik Pariyar (Roll 27), Samichhya Raya Chhetri (Roll 28), Biparsan Pun (Roll 29), Rises Thapa Magar (Roll 30), Amir Yonjan (Roll 31), Sandip Majhi (Roll 32).
+
+**Grade 2 Students:**
+Dibya Budha Chhetri (Roll 1), Sanju Magar (Roll 2), Anjali Kumari Shah (Roll 3), Pratap Bhujel (Roll 4), Pratima Bhujel (Roll 5), Sandhya Lama (Roll 6), Radika Nayaju (Roll 7), Sonika Thapa (Roll 8), Saurab Khadka (Roll 9), Romika Pariyar (Roll 10), Gayatri Magar (Roll 11), Anu Priya Kumari Shah (Roll 12), Bardan Tamang (Roll 13), Sanjay Tamang (Roll 14), Raj Budha (Roll 15), Susmita Shah (Roll 16), Pawan Pariyar (Roll 17), Bibesh Thami (Roll 18), Rajeshwari Kumari Air (Roll 19), Roshik Chaudhary (Roll 20), Mane Mistri (Roll 21), Abishek Chaudhary (Roll 22), Simran Poudel (Roll 23), Anjel Bk (Roll 24), Sidhartha Chauhary (Roll 25), Sahadev Khatri (Roll 26), Renuka Tiruwa (Roll 27), Sunita Tamang (Roll 28), Tul Raj Rijal (Roll 29), Sadikshya Ray (Roll 30), Anju Rijal (Roll 31), Rohan Chaudhary (Roll 32), Arson Sharma (Roll 33), Chandra Mani Chaudhary (Roll 34).
+
+**Grade 3 Students:**
+Sneha Karki (Roll 1), Nency Ghising (Roll 2), Pradip Darlami (Roll 3), Partikshya Karki (Roll 4), Kritika Kumari Chaudhary (Roll 5), Pramisha Bhandari (Roll 6), Phunechok Gole (Roll 7), Rijan Bamjan (Roll 8), Roshani Moktan (Roll 9), Subikahya Khadka (Roll 10), Adith Pulami Magar (Roll 11), Rikesh Lama (Roll 12), Sushil Pahari (Roll 13), Sabin Pahari (Roll 14), Naman Pyakhurel (Roll 15), Utsab Nepali (Roll 16), Ashmita Shah (Roll 17), Pritam Singh Kunwar (Roll 18), Mishan Acharya (Roll 19), Kritika Siwakoti (Roll 20), Mani Raj Khadka (Roll 21), Garima Dahal (Roll 22), Sital Tamang (Roll 23), Jenish Nakarmi (Roll 24), Sajan Biswas (Roll 25), Sagar Gyawali (Roll 26), Ranjana Koirala (Roll 27), Ashan Limbu (Roll 28), Sibam Thakur (Roll 29), Ashim Pudasaini (Roll 30), Unik Thapa Magar (Roll 31), Siwani Shrestha (Roll 32), Aditya Tamang (Roll 33), Ishwor Sunuwar (Roll 34), Nichya Rai (Roll 35), Nawaraj Rokaya (Roll 36), Gautam Chaurasiya (Roll 37), Sadikshya Rokka (Roll 38), Nikesh Ghale (Roll 39), Nishma Tamang (Roll 40), Simal Basnet (Roll 41).
+
+**Grade 4 Students:**
+Rasmita Tamang (Roll 1), Niruta Tharu (Roll 2), Sudiksha Majhi (Roll 3), Sorna Kumari Chaudhary (Roll 4), Lebon Gole (Roll 5), Nirajala Kc (Roll 6), Samir Rokka (Roll 7), Henish Khatri (Roll 8), Ayusha Chaudhary (Roll 9), Alish Budhathoki (Roll 10), Ashish Thapa Magar (Roll 11), Unika Shrestha (Roll 12), Hamesh Khadka (Roll 13), Roshan Shrestha (Roll 14), Usha Upreti (Roll 15), Aishwariya Tamang (Roll
+
+## SECTION 10: STUDENT DATABASE (ROLL CALL)
+**Grade ECD Students:**
+Shurti Kumari Yadav (Roll 1), Samir Kattel (Roll 2), Aaryan Thakur (Roll 3), Keshar Tamang (Roll 4), Aasish Rokka (Roll 5), Krishan Kumar Thakur (Roll 6), Showita Pahari (Roll 7), Shurite Kumari Yadav (Roll 8), Bikash Shah (Roll 9), Ankit Karki (Roll 10), Shyam Mistry (Roll 11), Bir Bahadur Shah (Roll 12), Khadananda Dhamala (Roll 13), Khurahri Dhamala (Roll 14), Rakish Gharti (Roll 15), Rosika Tamang (Roll 16), Resham Muktan (Roll 17), Pratiksha Bhandari (Roll 18), Allas Kapali (Roll 19), Rojen Tamang (Roll 20), Ronika Chaudhary (Roll 21), Samir Yonjan (Roll 22).
+
+**Grade 1 Students:**
+Shauraj Khadka (Roll 1), Nihang Rai (Roll 2), Subash Ghising (Roll 3), Ragini Kumari Shah (Roll 4), Aashika Tamang (Roll 5), Shiwani Shah (Roll 6), Priyanshukuk Yadav (Roll 7), Alisha Bhujel (Roll 8), Sakshyama Khatri (Roll 9), Nikita Dahal (Roll 10), Ranjita Ghising (Roll 11), Aaradhna Shrestha (Roll 12), Rani Kumari Paswan (Roll 13), Prasamsa Dubey (Roll 14), Ashim Rai (Roll 15), Surat Lama (Roll 16), Arun Shrestha (Roll 17), Namrata Bhujel (Roll 17), Anamol Sunuwar (Roll 18), Akash Jaiswal (Roll 20), Tanuja Basnet (Roll 21), Krish Moktan (Roll 22), Prasansha Tharu (Roll 23), Lina Kapali (Roll 24), Subin Rokka (Roll 25), Niti Ghale (Roll 27), Pratik Pariyar (Roll 27), Samichhya Raya Chhetri (Roll 28), Biparsan Pun (Roll 29), Rises Thapa Magar (Roll 30), Amir Yonjan (Roll 31), Sandip Majhi (Roll 32).
+
+**Grade 2 Students:**
+Dibya Budha Chhetri (Roll 1), Sanju Magar (Roll 2), Anjali Kumari Shah (Roll 3), Pratap Bhujel (Roll 4), Pratima Bhujel (Roll 5), Sandhya Lama (Roll 6), Radika Nayaju (Roll 7), Sonika Thapa (Roll 8), Saurab Khadka (Roll 9), Romika Pariyar (Roll 10), Gayatri Magar (Roll 11), Anu Priya Kumari Shah (Roll 12), Bardan Tamang (Roll 13), Sanjay Tamang (Roll 14), Raj Budha (Roll 15), Susmita Shah (Roll 16), Pawan Pariyar (Roll 17), Bibesh Thami (Roll 18), Rajeshwari Kumari Air (Roll 19), Roshik Chaudhary (Roll 20), Mane Mistri (Roll 21), Abishek Chaudhary (Roll 22), Simran Poudel (Roll 23), Anjel Bk (Roll 24), Sidhartha Chauhary (Roll 25), Sahadev Khatri (Roll 26), Renuka Tiruwa (Roll 27), Sunita Tamang (Roll 28), Tul Raj Rijal (Roll 29), Sadikshya Ray (Roll 30), Anju Rijal (Roll 31), Rohan Chaudhary (Roll 32), Arson Sharma (Roll 33), Chandra Mani Chaudhary (Roll 34).
+
+**Grade 3 Students:**
+Sneha Karki (Roll 1), Nency Ghising (Roll 2), Pradip Darlami (Roll 3), Partikshya Karki (Roll 4), Kritika Kumari Chaudhary (Roll 5), Pramisha Bhandari (Roll 6), Phunechok Gole (Roll 7), Rijan Bamjan (Roll 8), Roshani Moktan (Roll 9), Subikahya Khadka (Roll 10), Adith Pulami Magar (Roll 11), Rikesh Lama (Roll 12), Sushil Pahari (Roll 13), Sabin Pahari (Roll 14), Naman Pyakhurel (Roll 15), Utsab Nepali (Roll 16), Ashmita Shah (Roll 17), Pritam Singh Kunwar (Roll 18), Mishan Acharya (Roll 19), Kritika Siwakoti (Roll 20), Mani Raj Khadka (Roll 21), Garima Dahal (Roll 22), Sital Tamang (Roll 23), Jenish Nakarmi (Roll 24), Sajan Biswas (Roll 25), Sagar Gyawali (Roll 26), Ranjana Koirala (Roll 27), Ashan Limbu (Roll 28), Sibam Thakur (Roll 29), Ashim Pudasaini (Roll 30), Unik Thapa Magar (Roll 31), Siwani Shrestha (Roll 32), Aditya Tamang (Roll 33), Ishwor Sunuwar (Roll 34), Nichya Rai (Roll 35), Nawaraj Rokaya (Roll 36), Gautam Chaurasiya (Roll 37), Sadikshya Rokka (Roll 38), Nikesh Ghale (Roll 39), Nishma Tamang (Roll 40), Simal Basnet (Roll 41).
+
+**Grade 4 Students:**
+Rasmita Tamang (Roll 1), Niruta Tharu (Roll 2), Sudiksha Majhi (Roll 3), Sorna Kumari Chaudhary (Roll 4), Lebon Gole (Roll 5), Nirajala Kc (Roll 6), Samir Rokka (Roll 7), Henish Khatri (Roll 8), Ayusha Chaudhary (Roll 9), Alish Budhathoki (Roll 10), Ashish Thapa Magar (Roll 11), Unika Shrestha (Roll 12), Hamesh Khadka (Roll 13), Roshan Shrestha (Roll 14), Usha Upreti (Roll 15), Aishwariya Tamang (Roll 16), Abishek Waiba (Roll 17), Prakash Darlami (Roll 18), Karina Rokaya (Roll 19), Siwani Kumari Pal (Roll 20), Ritika Thapa (Roll 21), Rohit Chhetri (Roll 22), Abishek Sarki (Roll 23), Laxmi Giri (Roll 24), Amisha Shah (Roll 25), Ashika Limbu (Roll 26), Abina Limbu (Roll 27), Bishant Tamang (Roll 28), Nikesh Shrestha (Roll 29), Niroj Acharya (Roll 30), Samridhi Kafle (Roll 31), Arun Bhujel (Roll 32), Shreeya Thapa Magar (Roll 33), Isneha Adhikari (Roll 34), Ajay Giri (Roll 36), Sujata Sherpa (Roll 38), Meeraj Ashar (Roll 39), Samyog Bhujel (Roll 40), Krish Lohar (Roll 41), Saksham Tamang (Roll 42), Bikram Yadav (Roll 43), Krishan Lagun (Roll 44), Lok Bahadur Giri (Roll 45), Soniya Bhujel (Roll 46), Rishma Thapa Magar (Roll 47), Shakir Ansari (Roll 48), Ujjwal Adhikari (Roll 49), Nisha Khatiwada (Roll 50), Bibash Sodari (Roll 51).
+
+**Grade 5 Students:**
+Anjana Maya Lama (Roll 1), Yamajraj Karki (Roll 2), Manisha Tamang (Roll 3), Radhika Gurung (Roll 4), Aashish Dhamala (Roll 5), Pranish Sigdel (Roll 6), Amrit Magar (Roll 7), Ritisha Lama (Roll 8), Prajwal Basnet (Roll 9), Pawan Shah (Roll 10), Bibash Gautam (Roll 11), Dhanraj Raut (Roll 12), Prakriti Raut (Roll 13), Usha Nepal (Roll 14), Nabya Jaiswal (Roll 15), Mintu Lal Shah (Roll 16), Neha Kumari Shah (Roll 17), Jeshika Aryal (Roll 18), Muna Karki (Roll 19), Asmita Biswas (Roll 20), Laxman Joshi (Roll 21), Ranbir Paswan (Roll 22), Subash Rokka (Roll 23), Surakshya Lama (Roll 24), Grishma Dahal (Roll 25), Ronali Lamichhane (Roll 26), Nishan Khatri (Roll 27), Abishek Majhi (Roll 28), Nima Tamang (Roll 29), Bhumisara Khatri (Roll 30), Sundar Shrestha (Roll 31), Anusha Khatri (Roll 32), Bibek Rokaya (Roll 33), Kishan Karki (Roll 34), Subin Giri (Roll 35), Shrishma Mainali (Roll 36), Chotelal Shah (Roll 37), Astha Bhattrai (Roll 38), Sankalpa Timalsina (Roll 39), Ritik Sharma (Roll 40), Saurav Bhujel (Roll 41), Prativa Shibakoti (Roll 42), Pranab Shah (Roll 43), Abishek Pradhan (Roll 44), Kopila Shahi (Roll 45), Tapashya Basnet (Roll 46), Ashiwin Karki (Roll 47), Nishan Sundas (Roll 48), Ranjita Thapa (Roll 49), Ganesh Gyawali (Roll 50), Sandhya Kattel (Roll 51), Mirum Rai (Roll 52), Aayush Das (Roll 53).
+
+**Grade 6 Students:**
+Ruby Dangol (Roll 1), Sunil Thakur (Roll 2), Muna Sunwar (Roll 3), Lamu Tamang (Roll 4), Piter Deauja (Roll 5), Prajina Bomjan (Roll 6), Lucky Hang Rai (Roll 7), Rabin Tolani (Roll 8), Shiva Shakti Thakur (Roll 9), Saru Khadka (Roll 10), Ayusha Khatri (Roll 11), Sadikshya Khadka (Roll 12), Aruna Tamang (Roll 13), Nimesh Thapa (Roll 14), Khusbu Kumari Shah (Roll 15), Kushal Tamang (Roll 16), Milan Rai amjhi (Roll 17), Binisha Gautam (Roll 18), Muna Kumari Bk (Roll 19), Manoj Gautam (Roll 20), Kristi Sunuwar (Roll 21), Ujwal Nepali (Roll 22), Roji Ghalan (Roll 23), Pinki Kumari Jayswal (Roll 24), Bipas Kunwar (Roll 25), Nirmal Majhi (Roll 26), Aanuska Regmi (Roll 27), Siman Basnet (Roll 28), Chandra Bir Rai (Roll 29), Sukram Bk (Roll 30), Smriti Sapkota (Roll 31), Aditya Chaudhary (Roll 32), Dipish Karki (Roll 33), Goma Magar (Roll 34), Anisha Pokharel (Roll 35), Buddha Ngyasur (Roll 36), Amrita Mainali (Roll 37), Rohan Sardar (Roll 38), Susant Paswan (Roll 39), Ashika Bhattrai (Roll 40), Ayush Kuwar (Roll 41), Anisha Kc (Roll 42), Anusha Shah (Roll 43), Suman Basnet (Roll 44), Aradhana Mahato (Roll 45), Dipshikha Gole (Roll 46), Manisha Tamang (Roll 47), Namrata Malla (Roll 48), Sujal Bk (Roll 49), Sunil Rokka (Roll 50), Anush Sunar (Roll 51), Sandip Bohara (Roll 52), Ashik Biswas (Roll 53), Jyoti Purkuti (Roll 54), Purnima Magar (Roll 55), Apekshya Karki (Roll 56), Samiksha Rayamajhi (Roll 57), Samrat Bomjan (Roll 58), Bhupenra Batala (Roll 59), Prince Mandal (Roll 60), Aditya Bohara (Roll 61), Basanti Budha (Roll 62), Asish Dahal (Roll 63), Nisha Rai (Roll 64), Sonu Das (Roll 65).
+
+**Grade 7A Students:**
+Bipin Gautam (Roll 1), Laxman Budha (Roll 2), Bikesh Pradhan (Roll 3), Ritu Thapa (Roll 4), Sumi Sherpa (Roll 5), Kritika Bhusal (Roll 6), Gita Chaulagai (Roll 7), Pemu Sherpa (Roll 8), Ranjit Tamang (Roll 9), Anji Tamang (Roll 10), Subina Shrestha (Roll 11), Sushant Paswan (Roll 12), Samir Bhujel (Roll 13), Arbak Ansari (Roll 14), Samir Sunuwar (Roll 15), Januka Duraili (Roll 16), Jeena Joshi (Roll 17), Shiksha Khatiwada (Roll 18), Aayuna Majhi (Roll 19), Nabin Thapa (Roll 20), Rajesh Shahi (Roll 21), Nikesh Khadka (Roll 22), Nishant Acharya (Roll 23), Sahadev Phuyal (Roll 24), Arpan Bhandari (Roll 25), Sushant Prashad (Roll 26), Rojan Dangol (Roll 27), Shilu Basnet (Roll 28), Sabin Magar (Roll 29), Samiksha Khatri (Roll 30), Nischal Baniya (Roll 31), Prabesh Giri (Roll 32), Pawan Oli (Roll 33), Pratibha Shah (Roll 34), Rojina Majhi (Roll 35), Pemba Lama (Roll 36), Saurav Karki (Roll 37), Nikita Acharya (Roll 38), Nabodita Karki (Roll 39), Aayush Ghising (Roll 40), Sangam Gautam (Roll 41), Sudip Bohara (Roll 42), Samikshya Bhattrai (Roll 43), Sitish Chaudhary (Roll 44), Ayush Dhital (Roll 45), Prabina Khadgi (Roll 46), Pujan Shrestha (Roll 47), Pritam Pandey (Roll 48), Aashish Mahato (Roll 49), The Brok Chaudhary (Roll 50), Sandesh Upreti (Roll 51).
+
+**Grade 7B Students:**
+Nirjala Acharya (Roll 1), Anuska Khatri (Roll 2), Parwat Karki (Roll 3), bina Jaisi (Roll 4), Asmita Gautam (Roll 5), Chandra kala Budhathoki (Roll 6), Kritika Bhusal (Roll 6), Sakul Chaulagai (Roll 7), Rastu Rai (Roll 8), Shristi Rai (Roll 9), Shika Khadka (Roll 10), Sarmila Thami (Roll 11), Sandhya Ghalan (Roll 12), Unisha Tamang (Roll 13), Resham Pariyar (Roll 14), Sajina Magar (Roll 15), Roma Syangtang (Roll 16), Dipesh Adhikari (Roll 17), Sandesh Raj Giri (Roll 18), Ankit Chaulagain (Roll 19), Arjun Bhujel (Roll 20), Sandip Ramtel (Roll 21), Aakash Magar (Roll 22), Dil Bahadur Kumal (Roll 23), Jenish Basnet (Roll 24), Sushma Baniya (Roll 25), Manika Shrestha (Roll 26), Devika Timalsina (Roll 27), Ridam Bhujel (Roll 28), Grishma Bhattarai (Roll 29), Arpan B.k. (Roll 30), Roshan Rokka (Roll 31), Barsha Shrestha (Roll 32), Sahil Ansari (Roll 33), Bijaya Giri (Roll 34), Ashish Bam (Roll 35), Bhumika Acharya (Roll 36), Sagar Tiruwa (Roll 37), Durga Dudharaj (Roll 38), Shreya Bishowkarma (Roll 39), Astha Karki (Roll 40), Sangita Tamang (Roll 41), Nikhil Sharma (Roll 42), Manoj Ghising (Roll 43), Rukesh Thapa Magar (Roll 45), Sabin Tamang (Roll 46), Nirjala Adhikari (Roll 47), Pradip Bhandari (Roll 48), Nirjal Ghimire (Roll 49), Mission Adhikari (Roll 50).
+
+**Grade 8A Students:**
+Aashish Chaudhary (Roll 1), Samman Shrestha (Roll 2), Ratna Bahadur Khadka (Roll 3), Ramit Thapa (Roll 4), Yujin Gole (Roll 5), Jen559 K.C. (Roll 6), Kisan Rai (Roll 7), Riya Nayaju (Roll 8), Pranisha Sigdel (Roll 9), Madhu Kumari Thakur (Roll 10), Darshan Bhatta (Roll 11), Sudip Thapa Magar (Roll 12), Purnima Tamang (Roll 13), Subash Sapkota (Roll 14), Bishesh Kumar Shah (Roll 15), Samir Yonjan (Roll 16), Prabesh Yadav (Roll 17), Menuka Yadav (Roll 18), Samjhana Basnet (Roll 19), Nikhil Yogi (Roll 20), Neusan Rai (Roll 21), Bijaya Magar (Roll 22), Misbawal Hak (Roll 23), Sanju Pokhrel (Roll 24), Prabesh Lama (Roll 25), Pramisha Karki (Roll 26), Nisha Kumari Rai (Roll 27), Usha Sapkota (Roll 28), Raju Kumar Thakur (Roll 29), Nikesh Ray (Roll 30), Aditya Kumar Ray (Roll 31), Anisha Karki (Roll 32), Ankit Bhatta (Roll 33), Action Kathayat (Roll 34), Yubraj Adhikari (Roll 35), Sastra Shrestha (Roll 36), Diya Khatri (Roll 37), Yubati Subedi (Roll 38), Ayushree Karki (Roll 39), Sandesh Jethara (Roll 40), Pratikshya Karki (Roll 41), Purnima Karki (Roll 42), Samikshya Oli (Roll 43), Sumina Chaudhary (Roll 44), Savitri Regmi (Roll 45), Dipshikha Gole (Roll 46), Sujan Khadka (Roll 47), Tushar Pokhrel (Roll 48), Anmol Tamang (Roll 49), Raj Shrestha (Roll 50), Himal Timalsina (Roll 51), Rajeev Tamang (Roll 52), Samir Bhattrai (Roll 53), Gaurav Tamang (Roll 54), Aayush Tamang (Roll 55), Safalta Karki (Roll 56), Nischal Sundas (Roll 57), Sital Pandey (Roll 58), Dipisha Danuwar (Roll 59), Mithlesh Bhandari (Roll 60), Salina Basnet (Roll 61), Aarohi Ghorasaini (Roll 62).
+
+**Grade 8B Students:**
+Bhawana Nepali (Roll 1), Pasang Tamang (Roll 2), Smriti Bhujel (Roll 3), Salina Theeng (Roll 4), Rojina Khadka (Roll 5), Prasuna Karki (Roll 6), Abisha Basnet (Roll 7), Devkumari Timalsina (Roll 8), Swostika Magar (Roll 9), Rina Bhujel (Roll 10), Radhika Bista (Roll 11), Urmila Rokaya (Roll 12), Nirjala Tamang (Roll 13), Rabina Tamang (Roll 14), Susmita Rai (Roll 15), Dipesh Jaiswal (Roll 16), Swornim Shahi Thakuri (Roll 17), Abi Pandey (Roll 18), Manish Bhujel (Roll 19), Sharawan Acharya (Roll 20), Raivikishan Kalwar (Roll 21), Manjaya Kalwar (Roll 22), Sujan Khatri (Roll 23), Rajkumar Shrestha (Roll 24), Sandip Pahari (Roll 25), Manisha Khadka (Roll 26), Deepika Khadka (Roll 27), Mandira Khadka (Roll 28), Suprabha Karki (Roll 29), Supranjal Karki (Roll 30), Tina lamichhane (Roll 31), Sudarshan Thapa (Roll 32), Sahil Majhi (Roll 33), Ganesh Upreti (Roll 34), Anish Roka (Roll 35), Devraj Moktan (Roll 36), Roshan Tamang (Roll 37), Apsna Basnete (Roll 38), Salina Yogi (Roll 39), Arpana pun Magar (Roll 40), Asmita Kkadka (Roll 41), Priyatam Budha (Roll 42), Kopila Magar (Roll 43), Gita Khadka (Roll 44), Sujan Rai (Roll 45), Gaurab Bhujel (Roll 46), Santosh Chalise (Roll 47), Sakshyama Khadka (Roll 48), Himal Phadera (Roll 49), Surya Bikram Rai (Roll 50), Paras Rawal (Roll 51), Anisha Magar (Roll 52), Sajan Chaudhary (Roll 53).
+
+**Grade 9A Students:**
+Yunisha Timsina (Roll 1), Manjila Dangol (Roll 2), Arpan Rayamajhi (Roll 3), Reshu Rametel (Roll 4), Sarita Tamang (Roll 5), Bipana Bhujel (Roll 6), Swostika Tamang (Roll 7), Pratikchya Basnet (Roll 8), Prtika Rau t (Roll 9), Reshma Das (Roll 10), Bijay Shahi (Roll 11), Sharan Shrestha (Roll 12), Prashant Parajuli (Roll 13), Anisha Tamang (Roll 14), Premika Bam (Roll 15), Binita Chamlagai (Roll 16), Gyanendra Thapa (Roll 17), Puja Basnet (Roll 18), Manika Khatri (Roll 19), Rohit Jaiswal (Roll 20), Bibek Gautam (Roll 21), Prashant Khatri (Roll 22), Priyanka Kumari (Roll 23), Angel Dangol (Roll 24), Sarswoti Majhi (Roll 25), Joshika Tiwari (Roll 26), Bhumika Aryal (Roll 27), Prabesh Thing (Roll 28), Aaradhya Bhattrai (Roll 29), Riyana Shrestha (Roll 30), Arpan Tamang (Roll 31), Asishma Gumanju (Roll 32), Barsha KC (Roll 33), Bimal Karki (Roll 34), Shruti Das (Roll 35), Abhijeet Chaudhary (Roll 36), Shakshyam Ghimire (Roll 37), Nishal Bhandari (Roll 38), Ayush Pariyar (Roll 39), Anjal Bastola (Roll 40), Prashma Karki (Roll 41), Manoj Shrestha (Roll 42), Niraj Khatri (Roll 43), Susangma Adhikari (Roll 44), Sandhya Bhujel (Roll 45), Anu Kampa Kunwar (Roll 46), Dipak Mahatara (Roll 47), Ajaya Khadka (Roll 48), Rahul Shrestha (Roll 49), Soniya Budha (Roll 50), Sandhya Kafle (Roll 51), Alan Limbu (Roll 52), Nikita Khatri (Roll 53), Garima Magar (Roll 54), Rezina Pasman (Roll 55), Ronil Lama (Roll 56), Rahul Nepali (Roll 57), Tenisha Luitel (Roll 58), Ishan Lama (Roll 59), Rayan Shrestha (Roll 60), Sabin Rawat (Roll 61), Narendra Sunar (Roll 62), Krishna Pandey (Roll 63).
+
+**Grade 9B Students:**
+Subash Dahal (Roll 1), Aakash Adhikari (Roll 2), Narendra Air (Roll 3), Aashika Dhamala (Roll 4), Aruna Magar (Roll 5), Kabita Tamang (Roll 6), Goma Saru Magar (Roll 7), Aakriti Tamang (Roll 8), Bipi Tamang (Roll 9), Yunisha Das (Roll 10), Sushmita Shrestha (Roll 11), Smirti Bhujel (Roll 12), Rasmila Magar (Roll 13), Asmita Tamang (Roll 14), Debes Timalsina (Roll 15), Kamal Khati (Roll 16), Bishal Gole (Roll 17), Shyam Budathoki (Roll 18), Pabin Lohar (Roll 19), Sankalpa Giri (Roll 20), Love Paudel (Roll 21), Sanjip Tamang (Roll 22), Sunil Kumar Theng (Roll 23), Basanta Khadka (Roll 24), Sushil Khadka (Roll 25), Aakriti Sunar (Roll 26), Anjali Kumari Dash (Roll 27), Khema Nepali (Roll 28), Nitish Rana Magar (Roll 29), Sujan Sunuwar (Roll 30), Aakash Nepali (Roll 31), Yuna Rijal (Roll 32), Karisma Rokaya (Roll 33), Alisha Rai (Roll 34), Subi Shahi (Roll 35), Krishma Chhetri (Roll 36), Aashish Bhttarai (Roll 37), Manoj Neupane (Roll 38), Asmina Limbu (Roll 39), Sabin Poudel (Roll 40), Sona Kumari KUSWAR (Roll 41), Ritika Sunuwar (Roll 42), Supasa Singh (Roll 43), Khusi Lama (Roll 44), Salina Kapali (Roll 45), Santoshi Chalise (Roll 46), Sangam Tamang (Roll 47), Bikram Bishokarma (Roll 48), Ajay Dong (Roll 49), sachin Shah (Roll 50), Nishal Majhi (Roll 51), Sanjana Magar (Roll 52), Sarita Keshari (Roll 53), Soubhange Khadka (Roll 54), Gopal Ghorasaini (Roll 55), Sujita Adhikari (Roll 56), Saloni Pariyar (Roll 57), Laxmi Rawot (Roll 58), Kripa Kafle (Roll 59), Khem Raj bk (Roll 60), Karuna Moktan (Roll 61), Nischal Thing (Roll 62), Evanjelina Sharma (Roll 63), Jasnati Bhatta (Roll 64), Govinda Bhatta (Roll 65).
+
+**Grade 9C Students (Technical Stream):**
+Anush Giri (Roll 1), Ibrahim Ansari (Roll 2), Aanish B.C (Roll 3), Samiya Lama (Roll 4), Niraj Khadka (Roll 5), Nishan Katwal (Roll 6), Simon Deula (Roll 7), Abhiyan Giri (Roll 8), Binita Bharati (Roll 9), Nisha bharati (Roll 10), Alisha Luitel (Roll 11), Aabbushan dahal (Roll 12), Sapana Rokka (Roll 13), Sital Sunuwar (Roll 14), Sugam Parajuli (Roll 15), Saugat Gautam (Roll 16), Anupam Bastola (Roll 17), Samten lama (Roll 18), Shreya Chaudhary (Roll 19), kriti Sunar (Roll 20), ashma gole (Roll 21), Shardha Gautam (Roll 22), Resha karki (Roll 23), Kundan Kumar Sah (Roll 24), Rimisha Adhikari (Roll 25), Naresh Budha (Roll 26), Sangam Pariyar (Roll 27), Sachindra Shrestha (Roll 28), Jens Thapa (Roll 29), Dipesh Basnet (Roll 30), Bikesh Basnet (Roll 31), Bishal Mandal (Roll 32), Bijay B.k (Roll 33), Pasang Lamho (Roll 34), Anisha Khadka (Roll 35), Shahabaj Ansari (Roll 36), Barsa Pahari (Roll 37), Badal Pahari (Roll 38), Rihana Baral (Roll 39), Dharbendra Shahi (Roll 40), Subash Ruma (Roll 41), Utsav Dhakal (Roll 42), Nikesh Siwakoti (Roll 43), Prajwal Tamang (Roll 44), Manisha Bishwokarma (Roll 45), Ankita Sashankar (Roll 46), Renuka Chaulagain (Roll 47), Saujat Bohara (Roll 48).
+
+**Grade 10A Students:**
+Sunita Khadka (Roll 1), Shiva Shankar Thakur (Roll 2), Samjhana Lama (Roll 3), Akriti Khakurel (Roll 4), Latta Thapa Magar (Roll 5), Sworip Pariyar (Roll 6), Minisha KC (Roll 7), Suresh Tmanag (Roll 8), Bandhana Sharma (Roll 9), Sanjana Sharma (Roll 10), Kajal Yadav (Roll 11), Rinki Sardar (Roll 12), Jasmin Chauhan (Roll 13), Ganesh Rajak (Roll 14), Anamol Wad (Roll 15), Anjila Thapa (Roll 16), Anisha KC (Roll 17), Mamata Upreti (Roll 18), Bipana Gurung (Roll 19), Rajan Dhami (Roll 20), Arun Shrestha (Roll 21), Rajan Kumar Thakur (Roll 22), Yubak karki (Roll 23), Basudev Rai (Roll 24), Roman Giri (Roll 25), Savitri Budha (Roll 26), Jenisha Shah (Roll 27), Kalak Rokaya (Roll 28), Rohan Nepali (Roll 29), Sudip Rana Magar (Roll 30), Kshitiz Sunar (Roll 31), Krishna Bahadur Basnet (Roll 32), Subina Khadka (Roll 33), Akriti Tamang (Roll 34), Mestro Rai (Roll 35), Aayush Subedi (Roll 36), Suprim Thapa Magar (Roll 37), Kanchan Nirula (Roll 38), Rahul Shah (Roll 39), Samir Basnet (Roll 40), Bijay Bikram Karki (Roll 41), Anil Luhar (Roll 42).
+
+**Grade 10B Students:**
+Roshani Shrestha (Roll 1), Anuska Sambhamphe (Roll 2), Priyanka Raut (Roll 3), Karishma Thakur (Roll 4), Anju Moktan (Roll 5), Gauri Magar (Roll 6), Milan Acharya (Roll 7), Sarmila Nayaju (Roll 8), Anjana Khadka (Roll 9), Ram Sharan Upreti (Roll 10), Sujan Parjuli (Roll 11), Suneha Sharma (Roll 12), Kehari Saud (Roll 13), kushal Lama (Roll 14), Salina Sodari (Roll 15), Sanisha Thapa Magar (Roll 16), Lalita Thapa (Roll 17), Anisha Rai (Roll 18), Parbati Saut (Roll 19), Ilabhung Rai (Roll 20), Tika Kharti (Roll 21), Anjali Chaulagai (Roll 22), Bimal Pandey (Roll 23), Karuna Neupane (Roll 24), Roshan Thapa (Roll 25), Ranjita Phuyal (Roll 26), Sabita Darlami Magar (Roll 27), Shika Chhetri (Roll 28), Sabita Sapkota (Roll 29), Alisha Khanal (Roll 30), Dipak Dhakal (Roll 31), Dammar Air (Roll 32), Nigma Chhiri Sherpa (Roll 33), Ujjwal Ekche (Roll 34).
+
+## SECTION 11: SCHOOL RULES AND REGULATIONS
+**General Conduct:**
+- Students must maintain discipline and respect towards teachers, staff, and peers.
+- Punctuality is mandatory; late arrivals are discouraged.
+- Uniform must be worn properly and neatly every school day.
+- Use of abusive language, bullying, or harassment is strictly prohibited.
+- Students must uphold honesty and integrity in all academic and social activities.
+
+**Attendance:**
+- Minimum 90% attendance is required to sit for final examinations.
+- Absence must be informed in advance with a valid reason.
+- Unauthorized absence for more than 3 consecutive days will be reported to guardians.
+
+**Classroom Behavior:**
+- Students must bring required books, copies, and stationery.
+- Mobile phones and electronic gadgets are not allowed unless permitted for academic use.
+- Silence and attentiveness must be maintained during lessons.
+- Eating or drinking inside classrooms is not permitted.
+
+**Examinations:**
+- Students must follow exam schedules strictly.
+- Cheating or unfair means during exams will result in disciplinary action.
+- Identity cards must be carried during examinations.
+- Lab subjects require practical exams in addition to theory.
+
+**Library Rules:**
+- Silence must be maintained inside the library.
+- Books must be returned within the due date.
+- Damaged or lost books must be compensated by the student.
+
+**Laboratory Rules:**
+- Students must wear lab coats and follow safety instructions.
+- Equipment must be handled carefully; damage due to negligence will be charged.
+- Lab sessions must be attended regularly as per routine.
+
+**Health and Safety:**
+- Students must maintain cleanliness and hygiene.
+- Bio breaks and lunch breaks must be followed as per routine.
+- Running or playing in corridors is prohibited.
+- Emergency drills must be followed seriously.
+
+**Extracurricular Activities:**
+- Participation in sports, cultural programs, and social service is encouraged.
+- Students must represent the school with discipline during external events.
+- Prior permission is required for organizing any student-led activity.
+
+**Teacher and Staff Interaction:**
+- Respectful communication with teachers and staff is mandatory.
+- Students must follow instructions given by school authorities.
+- Complaints or grievances must be reported through proper channels.
+
+**Disciplinary Actions:**
+- Warning for minor misconduct.
+- Suspension for repeated or serious violations.
+- Expulsion in case of severe breach of rules (e.g., violence, substance abuse).

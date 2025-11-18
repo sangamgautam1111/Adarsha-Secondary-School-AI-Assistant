@@ -8,229 +8,318 @@ from dotenv import load_dotenv
 class SchoolRAGPipeline:
     def __init__(
         self,
-        db_path=r"C:\Users\USER\Documents\GitHub\Adarsha-Secondary-School-AI-Assistant\vector_db",
-        model_path=r"C:\Users\USER\Desktop\models",
+        db_path=r"D:\sangam\AI FOR ADARSHA\Adarsha-Secondary-School-AI-Assistant\vector_db",
+        model_path=r"D:\sangam\Models_for_course ai\embedding model",
         groq_model="llama-3.3-70b-versatile"
     ):
         """Initialize RAG Pipeline with ChromaDB and Groq API"""
         print("="*70)
-        print("INITIALIZING ADARSHA SCHOOL RAG PIPELINE")
+        print("🚀 INITIALIZING ULTRA-ACCURATE RAG PIPELINE")
         print("="*70 + "\n")
         
-        # Load .env from parent directory using dotenv
+        # Load environment variables
         current_dir = os.path.dirname(os.path.abspath(__file__))
         parent_dir = os.path.dirname(current_dir)
         env_path = os.path.join(parent_dir, '.env')
         
-        print(f"Looking for .env at: {env_path}")
         if os.path.exists(env_path):
             load_dotenv(dotenv_path=env_path)
-            print("✓ .env file loaded\n")
         else:
-            print("⚠️  .env file not found, trying current directory...")
-            load_dotenv()  # Try current directory
+            load_dotenv()
         
-        # Get API key
         self.groq_api_key = os.getenv("GROQ_API_KEY") or os.getenv("GROQ_API")
-        
         if not self.groq_api_key:
-            raise ValueError(
-                " GROQ_API_KEY not found!\n"
-                f"Please add GROQ_API_KEY to your .env file at: {env_path}\n"
-                "Format: GROQ_API_KEY=gsk_your_key_here"
-            )
+            raise ValueError("❌ GROQ_API_KEY not found in .env file")
         
-        # Verify API key format
-        if not self.groq_api_key.startswith("gsk_"):
-            raise ValueError(" Invalid Groq API key format! Key should start with 'gsk_'")
-        
-        print(f"✓ Groq API key loaded: {self.groq_api_key[:8]}...{self.groq_api_key[-4:]}")
-        
-        # Initialize Groq client
         try:
             self.groq_client = Groq(api_key=self.groq_api_key)
             self.groq_model = groq_model
-            print(f"✓ Groq client initialized")
-            print(f"✓ Using model: {groq_model}\n")
-            
+            print(f"✓ Groq Model: {groq_model}")
         except Exception as e:
-            raise ConnectionError(f"❌ Failed to connect to Groq API: {str(e)}")
+            raise ConnectionError(f"❌ Groq Connection Error: {str(e)}")
         
-        # Load embedding model
-        print(f"Loading embedding model from: {model_path}")
+        print(f"Loading embedding model...")
         self.embedding_model = SentenceTransformer(model_path)
-        print("✓ Embedding model loaded\n")
         
-        # Connect to ChromaDB
-        print(f"Connecting to ChromaDB at: {db_path}")
+        print(f"Connecting to ChromaDB...")
         self.client = chromadb.PersistentClient(path=db_path)
         self.collection = self.client.get_collection(name="adarsha_school_data")
-        print(f"✓ Connected to collection with {self.collection.count()} documents\n")
-        
-        print("="*70)
-        print("RAG PIPELINE READY - Start Chatting!")
+        print(f"✓ Database loaded: {self.collection.count()} searchable nodes")
         print("="*70 + "\n")
-    
-    def retrieve_context(self, query: str, top_k: int = 5) -> List[Dict[str, Any]]:
-        """Retrieve relevant context from vector database"""
-        # Generate query embedding
-        query_embedding = self.embedding_model.encode(query).tolist()
+
+    def _get_type_weight(self, chunk_type: str) -> float:
+        """Assign priority weights to different chunk types"""
+        # HIGH PRIORITY: Direct answers and complete information
+        high_priority = {
+            "student_profile": 1.5,  # Increased from 1.2
+            "student_qa": 1.4,
+            "teacher_load": 1.3,
+            "routine_entry": 1.3,
+            "qa_pair": 1.4,
+            "vip": 2.0  # Highest priority for VIP content
+        }
         
-        # Query ChromaDB
+        # MEDIUM PRIORITY: Contextual information
+        medium_priority = {
+            "student_raw": 1.0,
+            "routine_header": 1.0,
+            "routine_period": 1.2,
+            "context_window": 0.9,
+            "section_full": 1.1
+        }
+        
+        # LOW PRIORITY: Fragments and duplicates
+        low_priority = {
+            "exact_line": 0.7,
+            "line": 0.6
+        }
+        
+        if chunk_type in high_priority:
+            return high_priority[chunk_type]
+        elif chunk_type in medium_priority:
+            return medium_priority[chunk_type]
+        elif chunk_type in low_priority:
+            return low_priority[chunk_type]
+        return 1.0
+
+    def preprocess_query(self, query: str) -> str:
+        """Enhanced query preprocessing with better context injection"""
+        query_lower = query.strip().lower()
+        
+        # Student queries
+        if any(x in query_lower for x in ["roll", "roll number", "student"]):
+            if "sangam" in query_lower and "gautam" in query_lower:
+                return f"VIP student Sangam Gautam Grade 9C Roll 2 AI creator {query}"
+            return f"student database roll call {query}"
+        
+        # Teacher/Staff queries
+        if any(x in query_lower for x in ["who teach", "teacher", "sir", "mam", "miss", "instructor"]):
+            return f"staff directory teacher schedule {query}"
+        
+        # AI Project queries - CRITICAL
+        if any(x in query_lower for x in ["ai project", "ai assistant", "sangam", "creator", "developer", "who made", "who built", "who created"]):
+            return f"VIP AI PROJECT Sangam Gautam creator developer {query}"
+        
+        # Location queries
+        if any(x in query_lower for x in ["where", "location", "address", "situated"]):
+            return f"school location address infrastructure {query}"
+        
+        # Routine/Schedule queries
+        if any(x in query_lower for x in ["routine", "period", "schedule", "time table", "class timing"]):
+            return f"daily routine class schedule period timing {query}"
+        
+        # Friday Exhibition queries
+        if any(x in query_lower for x in ["friday", "exhibition", "project"]):
+            return f"Friday Exhibition 2025 projects {query}"
+        
+        return query
+
+    def retrieve_context(self, query: str, top_k: int = 20) -> List[Dict[str, Any]]:
+        """Enhanced retrieval with better ranking"""
+        enhanced_query = self.preprocess_query(query)
+        query_embedding = self.embedding_model.encode(enhanced_query).tolist()
+        
+        # Retrieve more results for better filtering
         results = self.collection.query(
             query_embeddings=[query_embedding],
-            n_results=top_k,
+            n_results=min(top_k * 3, 50),  # Cap at 50 to avoid overload
             include=["documents", "metadatas", "distances"]
         )
         
-        # Format results
-        retrieved_docs = []
+        processed_docs = []
+        seen_content = set()
+        
         for i in range(len(results['documents'][0])):
-            retrieved_docs.append({
-                'content': results['documents'][0][i],
-                'metadata': results['metadatas'][0][i],
-                'distance': results['distances'][0][i]
+            metadata = results['metadatas'][0][i]
+            distance = results['distances'][0][i]
+            content = results['documents'][0][i]
+            chunk_type = metadata.get('type', 'unknown')
+            
+            # Skip near-duplicates
+            content_key = content[:100].lower()
+            if content_key in seen_content:
+                continue
+            seen_content.add(content_key)
+            
+            # Calculate weighted score
+            base_score = 1 / (1 + distance)
+            weight = self._get_type_weight(chunk_type)
+            final_score = base_score * weight
+            
+            # Boost scores for critical queries
+            query_lower = query.lower()
+            if "sangam" in query_lower and "sangam gautam" in content.lower():
+                final_score *= 1.8
+            if "ai project" in query_lower and "ai" in content.lower():
+                final_score *= 1.5
+            
+            processed_docs.append({
+                'content': content,
+                'metadata': metadata,
+                'score': final_score,
+                'original_distance': distance,
+                'chunk_type': chunk_type
             })
         
-        return retrieved_docs
-    
-    def format_context(self, retrieved_docs: List[Dict[str, Any]]) -> str:
-        """Format retrieved documents into context string"""
-        context_parts = []
-        for i, doc in enumerate(retrieved_docs, 1):
-            context_parts.append(f"[Document {i}]")
-            context_parts.append(f"Content: {doc['content']}")
-            context_parts.append(f"Section: {doc['metadata'].get('section', 'N/A')}")
-            context_parts.append("")
+        # Sort by weighted score
+        processed_docs.sort(key=lambda x: x['score'], reverse=True)
         
-        return "\n".join(context_parts)
-    
-    def generate_response(
-        self,
-        query: str,
-        context: str,
-        temperature: float = 0.3,
-        max_tokens: int = 1024
-    ) -> str:
-        """Generate response using Groq API with retrieved context"""
+        return processed_docs[:top_k]
+
+    def format_context(self, retrieved_docs: List[Dict[str, Any]], query: str) -> str:
+        """Smart context formatting with section grouping"""
+        if not retrieved_docs:
+            return "No information available."
         
-        system_prompt = """You are an Adarsha School AI assistant made by Sangam Gautam for Adarsha Secondary School in Nepal. 
-Your role is to provide accurate, helpful information about the school based on the provided context.
+        # Filter low-quality results
+        filtered_docs = [doc for doc in retrieved_docs if doc['score'] > 0.3]
+        
+        if not filtered_docs:
+            return "No relevant information found."
+        
+        # Group by section for better organization
+        context_by_section = {}
+        
+        for doc in filtered_docs:
+            content = doc['content'].strip()
+            section = doc['metadata'].get('section', 'General')
+            
+            if section not in context_by_section:
+                context_by_section[section] = []
+            
+            context_by_section[section].append({
+                'content': content,
+                'score': doc['score'],
+                'type': doc['chunk_type']
+            })
+        
+        # Build context with prioritization
+        final_context = []
+        
+        # Prioritize VIP and high-scoring sections
+        for section in sorted(context_by_section.keys(), 
+                            key=lambda s: max(d['score'] for d in context_by_section[s]), 
+                            reverse=True):
+            items = context_by_section[section]
+            
+            # Sort items within section by score
+            items.sort(key=lambda x: x['score'], reverse=True)
+            
+            section_header = f"\n=== {section.upper()} ===\n"
+            section_content = "\n".join([item['content'] for item in items[:5]])  # Top 5 per section
+            
+            final_context.append(section_header + section_content)
+        
+        return "\n".join(final_context)
 
-Guidelines:
-- Answer questions accurately using ONLY the information from the provided context
-- If the context doesn't contain enough information, say so politely
-- Be friendly, professional, and concise
-- Use Nepali names and terms correctly
-- For student/staff queries, provide relevant details from the context
-- If asked about something not in the context, admit you don't have that information"""
+    def generate_response(self, query: str, context: str) -> str:
+        """Generate response with enhanced system prompt"""
+        
+        system_prompt = """You are the official AI Assistant for Adarsha Secondary School, Sanothimi, Bhaktapur.
 
-        user_prompt = f"""Context Information:
+CORE IDENTITY:
+- You have direct access to the school's complete database
+- You provide accurate, verified information from school records
+- You are helpful, professional, and friendly
+
+RESPONSE GUIDELINES:
+1. Answer directly and confidently using the provided context
+2. For specific questions (names, roll numbers, dates), provide exact answers
+3. If information is NOT in the context, clearly state: "I don't have that specific information in my database."
+4. NEVER fabricate names, numbers, or facts
+5. Keep responses concise and well-structured
+6. Use natural language - avoid phrases like "According to the documents" or "Based on the context"
+
+SPECIAL HANDLING:
+- For student queries: Provide name, grade, roll number when available
+- For teacher queries: Mention subjects taught and department
+- For schedule queries: Provide period timings and subject details
+- For AI Project queries: Highlight Sangam Gautam as the complete creator and developer
+
+CONTEXT FROM DATABASE:
 {context}
 
-Question: {query}
-
-Please provide a clear and accurate answer based on the context above."""
+Remember: Be accurate, be helpful, be concise."""
 
         try:
-            # Call Groq API
             chat_completion = self.groq_client.chat.completions.create(
                 messages=[
-                    {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": user_prompt}
+                    {"role": "system", "content": system_prompt.format(context=context)},
+                    {"role": "user", "content": query}
                 ],
                 model=self.groq_model,
-                temperature=temperature,
-                max_tokens=max_tokens,
+                temperature=0.2,  # Slightly increased for more natural responses
+                max_tokens=1024,
+                top_p=0.9
             )
-            
-            response = chat_completion.choices[0].message.content
-            return response
-            
+            return chat_completion.choices[0].message.content.strip()
         except Exception as e:
-            error_msg = str(e)
-            if "429" in error_msg or "rate_limit" in error_msg.lower():
-                return "⚠️ Rate limit exceeded. Please wait a moment and try again."
-            return f"❌ Error: {error_msg[:200]}"
-    
-    def query(
-        self,
-        question: str,
-        top_k: int = 5,
-        temperature: float = 0.3
-    ) -> str:
-        """
-        Complete RAG pipeline: retrieve, format, and generate
-        Returns just the answer as a string
-        """
-        # Step 1: Retrieve relevant context
-        retrieved_docs = self.retrieve_context(question, top_k=top_k)
-        
-        # Step 2: Format context
-        formatted_context = self.format_context(retrieved_docs)
-        
-        # Step 3: Generate response
-        response = self.generate_response(
-            query=question,
-            context=formatted_context,
-            temperature=temperature
-        )
-        
-        return response
-    
+            return f"⚠️ Error generating response: {str(e)}"
+
     def chat(self):
-        """Simple chat interface - just ask and get answers"""
-        print("🎓 ADARSHA SCHOOL AI ASSISTANT")
-        print("="*70)
-        print("Ask me anything about Adarsha Secondary School!")
-        print("Type 'exit', 'quit', or 'bye' to stop chatting.")
-        print("="*70 + "\n")
+        """Interactive chat loop with better UX"""
+        print("🎓 Adarsha School AI Assistant - Ready!")
+        print("💡 Ask me anything about students, teachers, schedules, or school info")
+        print("Type 'exit' or 'quit' to end the conversation")
+        print("-" * 70)
+        
+        conversation_count = 0
         
         while True:
             try:
-                # Get user input
-                user_input = input("💬 You: ").strip()
+                user_input = input("\n💬 You: ").strip()
                 
-                # Check for empty input
+                if user_input.lower() in ['exit', 'quit', 'bye']:
+                    print("\n👋 Thank you for using Adarsha School AI Assistant!")
+                    break
+                
                 if not user_input:
                     continue
                 
-                # Check for exit commands
-                if user_input.lower() in ['exit', 'quit', 'bye', 'q']:
-                    print("\n👋 Thank you for chatting! Goodbye!")
-                    break
+                conversation_count += 1
+                print("🔍 Searching database...", end="\r")
                 
-                # Get answer from RAG pipeline
-                print("\n🤖 Assistant: ", end="", flush=True)
-                answer = self.query(user_input)
-                print(answer)
-                print()
+                # Retrieve relevant context
+                docs = self.retrieve_context(user_input, top_k=15)
+                
+                # Format context
+                context = self.format_context(docs, user_input)
+                
+                # Debug mode (uncomment to see retrieved context)
+                # print(f"\n[DEBUG] Retrieved {len(docs)} documents")
+                # print(f"[DEBUG] Top 3 scores: {[f'{d['score']:.3f}' for d in docs[:3]]}")
+                
+                if context == "No information available." or context == "No relevant information found.":
+                    print("\n🤖 AI: I couldn't find any information about that in the school database. Could you rephrase your question?")
+                    continue
+                
+                # Generate response
+                response = self.generate_response(user_input, context)
+                print(f"\n🤖 AI: {response}")
+                
+                # Show confidence indicator for debugging (optional)
+                if docs and docs[0]['score'] > 0.8:
+                    confidence = "High"
+                elif docs and docs[0]['score'] > 0.5:
+                    confidence = "Medium"
+                else:
+                    confidence = "Low"
+                
+                # Uncomment to show confidence
+                # print(f"   [Confidence: {confidence}]")
                 
             except KeyboardInterrupt:
-                print("\n\n👋 Goodbye!")
+                print("\n\n👋 Conversation interrupted. Goodbye!")
                 break
             except Exception as e:
-                print(f"\n❌ Error: {e}\n")
-
-
-def main():
-    """Main function - directly starts chat mode"""
-    try:
-        # Initialize the RAG pipeline
-        rag = SchoolRAGPipeline()
-        
-        # Start chatting
-        rag.chat()
-        
-    except Exception as e:
-        print(f"\n❌ ERROR: {e}")
-        print("\nTroubleshooting:")
-        print("1. Make sure .env file exists with GROQ_API_KEY")
-        print("2. Check if python-dotenv is installed: pip install python-dotenv")
-        print("3. Verify your API key starts with 'gsk_'")
-        import traceback
-        traceback.print_exc()
-
+                print(f"\n❌ Error: {e}")
+                print("Please try again.")
 
 if __name__ == "__main__":
-    main()
+    try:
+        rag = SchoolRAGPipeline()
+        rag.chat()
+    except Exception as e:
+        print(f"Fatal Error: {e}")
+        import traceback
+        traceback.print_exc()
