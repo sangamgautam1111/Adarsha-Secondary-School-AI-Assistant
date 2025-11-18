@@ -87,7 +87,6 @@
           "from_bhaktapur": "3km via Sallaghari",
           "from_lalitpur": "12km via Imadol",
           "from_airport": "15km via Ring Road"
-        }
       }
     },
     "campus_details": {
@@ -142,130 +141,128 @@
         "experience": "28 years in education",
         "specialization": "Educational Administration and Policy Studies",
         "tenure_start": "2079 B.S.",
-        "office_hours": "9:00 AM - 5:00 PM",
-        "contact": "principal@adarshasanothimi.edu.np"
+        "office_hours": "9:00 AM - 5:00 PM"
+        
       },
       "vice_principal": {
         "name": "Mr. Tanka Nath Acharya",
-        "experience": "24 years",
-        "responsibilities": ["Academic coordination", "Discipline management", "Teacher supervision"],
-        "contact": "vp@adarshasanothimi.edu.np"
+        
+        "responsibilities": ["Academic coordination", "Discipline management", "Teacher supervision"]
+        
       },
       "administrative_team": {
         "academic_coordinator": {
-          "name": "Ms. Kamala Thakuri",
+          "name": "Ms. Kamala Pandey  Thakuri",
           "responsibilities": ["Curriculum planning", "Examination management", "Academic calendar"]
         }
-      }
-    },
-    "departments": {
-      "science_department": {
-        "head": "Mr. Ramsharan Regmi",
-        "teachers": [
-          "Ramsharan Regmi",
-          "Bibek Luitel",
-          "Dhansingh Dhami",
-          "Yashoda Prajapati",
-          "Sujan Khatri",
-          "Babita Poudel"
-        ],
-        "faculty_strength": 6,
-        "laboratories": 3,
-        "research_projects": 5,
-        "student_clubs": ["Science Club", "Astronomy Club", "Environmental Club"]
-      },
-      "mathematics_department": {
-        "head": "Mr. Ganesh Poudel",
-        "teachers": [
-          "Ganesh Poudel",
-          "Prabin Shrestha",
-          "Kamala Pun",
-          "Pramila Thapa",
-          "Sujan Khatri",
-          "Bachchu Lal"
-        ],
-        "faculty_strength": 6,
-        "special_programs": ["Math Olympiad Training", "Vedic Mathematics", "Statistics Workshop"]
-      },
-      "computer_department": {
-        "head": "Mr. Bikesh Poudel",
-        "teachers": [
-          "Bikesh Poudel",
-          "Aakash Sharma",
-          "Kamal KC",
-          "Trimandir Bajracharya",
-          "Ganesh Sapkota",
-          "Bharat Poudel",
-          "Sunil Tamang",
-          "Kamala Baral"
-        ],
-        "faculty_strength": 8,
-        "labs": 2,
-        "certifications_offered": ["Basic Computing", "Programming", "Web Development"]
-      },
-      "language_department": {
-        "sections": ["Nepali", "English", "Sanskrit"],
-        "head": "Ms. Sarita K.C.",
-        "english_teachers": [
-          "Tanka Nath Acharya",
-          "Kamala Pandey",
-          "Nanu Maya",
-          "Shobha Shrestha",
-          "Anju Sharma",
-          "Lila Devi",
-          "Kalpana Thapa"
-        ],
-        "nepali_teachers": [
-          "Sarita K.C.",
-          "Kaushal Bhattarai",
-          "Babita Poudel",
-          "Devaki Sharma",
-          "Sushila Regmi",
-          "Sahanshila Tamang"
-        ],
-        "faculty_strength": 13,
-        "special_initiatives": ["Creative Writing", "Debate Society", "Literary Magazine"]
-      },
-      "social_studies_department": {
-        "head": "Mr. Shekhar Pandey",
-        "teachers": [
-          "Shekhar Pandey",
-          "Bachchu Lal",
-          "Muna Sharma",
-          "Kalpana Thapa",
-          "Kamala Baral"
-        ],
-        "faculty_strength": 5,
-        "field_trips": "Quarterly heritage site visits",
-        "projects": ["Local History Documentation", "Community Mapping"]
-      },
-      "management_department": {
-        "head": "Mr. Ram Babu Regmi",
-        "teachers": [
-          "Ram Babu Regmi",
-          "Kashi Nath Sharma"
-        ],
-        "faculty_strength": 2,
-        "subjects": ["Economics", "Accounting", "Business Studies"]
-      },
-      "health_and_physical_education": {
-        "teachers": [
-          "Binod Thapa",
-          "Yashoda Prajapati",
-          "Anju Sharma"
-        ],
-        "faculty_strength": 3
-      },
-      "early_childhood_development": {
-        "teachers": [
-          "Samita Shrestha (LKG)",
-          "Sunita Maharjan (Nursery)",
-          "Sajani Tamang (Assistant)"
-        ],
-        "faculty_strength": 3
-      }
     }
   },
+"departments": {
+  "science_department": {
+    "head": "Ramsharan Regmi",
+    "teachers": [
+      "Ramsharan Regmi",
+      "Bibek Luitel",
+      "Dhan Singh Dhant",
+      "Yashoda Praapati",
+      "Sujan Gasi Shrestha",
+      "Babita Thapa"
+    ],
+    "faculty_strength": 6,
+    "laboratories": 3,
+    "research_projects": 5,
+    "student_clubs": ["Science Club", "Astronomy Club", "Environmental Club"]
+  },
+  "mathematics_department": {
+    "head": "Ganesh Pathak",
+    "teachers": [
+      "Ganesh Pathak",
+      "Prabin Neupane",
+      "Pramila K.C.",
+      "Sujan Gasi Shrestha",
+      "Er. Ganesh Sapkota",
+      "Bibek Luitel",
+      "Ramsharan Regmi"
+    ],
+    "faculty_strength": 7,
+    "special_programs": ["Math Olympiad Training", "Vedic Mathematics", "Statistics Workshop"]
+  },
+  "computer_department": {
+    "head": "Er. Tri Mandir Prajapati",
+    "teachers": [
+      "Er. Bikesh Shrestha",
+      "Er. Aakash Koirala",
+      "Er. Kamal Tamrakar",
+      "Er. Tri Mandir Prajapati",
+      "Er. Ganesh Sapkota",
+      "Er. Bharat Chaudhary"
+    ],
+    "faculty_strength": 6,
+    "labs": 2,
+    "certifications_offered": ["Basic Computing", "Programming", "Web Development"]
+  },
+  "language_department": {
+    "sections": ["Nepali", "English"],
+    "head": "Sarita KC",
+    "english_teachers": [
+      "Tanka Nath Acharya",
+      "Kamala Pandey",
+      "Nanu Baral",
+      "Shova Rijal",
+      "Anju Giri",
+      "Lila Devi Niraula",
+      "Kalpana Karki"
+    ],
+    "nepali_teachers": [
+      "Sarita KC",
+      "Kausal Kumar Rayamajhee",
+      "Babita Thapa",
+      "Debaki Ghimire"
+    ],
+    "faculty_strength": 11,
+    "special_initiatives": ["Creative Writing", "Debate Society", "Literary Magazine"]
+  },
+  "social_studies_department": {
+    "head": "Shekhar Parajuli",
+    "teachers": [
+      "Shekhar Parajuli",
+      "Bachchu Parajuli",
+      "Muna Adhikari",
+      "Kalpana Karki",
+      "Kamala Kumari Baral"
+    ],
+    "faculty_strength": 5,
+    "field_trips": "Quarterly heritage site visits",
+    "projects": ["Local History Documentation", "Community Mapping"]
+  },
+  "management_department": {
+    "head": "Ram Babu Regmi",
+    "teachers": [
+      "Ram Babu Regmi",
+      "Kashi Bhakta Kayastha"
+    ],
+    "faculty_strength": 2,
+    "subjects": ["Economics", "Accounting", "Business Studies"]
+  },
+  "health_and_physical_education": {
+    "teachers": [
+      "Binod Thakuri",
+      "Yashoda Praapati",
+      "Anju Giri"
+    ],
+    "faculty_strength": 3
+  },
+  "early_childhood_development": {
+    "teachers": [
+      "Samita Gurung Prajapati (LKG)",
+      "Sunita Dawadi (Nursery)",
+      "Sajani Pradhan (Assistant)"
+    ],
+    "faculty_strength": 3
+  }
+}
+  }
+},
 
   "human_resources": {
     "teaching_staff": {
@@ -321,7 +318,16 @@
         "Staff Room with amenities",
         "Cafeteria access",
         "Parking facility",
-        "Wi-Fi access"
+        "Wi-Fi access",
+        "Free Clean Water Service",
+        "Recreational Area",
+        "Health Check-up Camps",
+        "Annual Staff Picnic",
+        "Annual Awards for Excellence",
+        "Annual Educational Trip",
+        "Programs and practical",
+        "Talent shows",
+        "Supportive Teachers"
       ]
     }
   },
@@ -866,11 +872,7 @@
           "Demonstrates conservation principle in volume but not in surface area"
         ],
         
-        "student_presenters": [
-          {"name": "Arpan Rayamajhi", "class": "9A", "role": "Lead Presenter"},
-          {"name": "Prashant Parajuli", "class": "9A", "role": "Mathematical Calculations"},
-          {"name": "Bibek Gautam", "class": "9A", "role": "Model Demonstration"}
-        ],
+        
         
         "learning_outcomes": [
           "Understanding of 3D geometry concepts",
@@ -982,11 +984,7 @@
           ]
         },
         
-        "student_presenters": [
-          {"name": "Sangam Gautam", "class": "9C", "role": "Technical Explanation"},
-          {"name": "Ankit Chaulagain", "class": "9C", "role": "Hardware Operation"},
-          {"name": "Aanish B.C.", "class": "9C", "role": "Environmental Impact"}
-        ],
+        
         
         "innovation_aspects": [
           "Multi-stage environmental process in single model",
@@ -1069,6 +1067,7 @@
               "family_role": "The Emotion - Expresses feelings"
             }
           ]
+          }
         },
         
         "interactive_elements": {
@@ -1105,13 +1104,9 @@
               "grammar": "Noun"
             }
           }
-        ],
-        
-        "student_presenters": [
-          {"name": "Angel Dangol", "class": "9A", "role": "Lead Grammar Expert"},
-          {"name": "Aaradhya Bhattrai", "class": "9A", "role": "Interactive Games"},
-          {"name": "Krishtina Pandey", "class": "9A", "role": "Quiz Master"}
         ]
+        
+        
       },
       
       "social_studies": {
@@ -1292,13 +1287,9 @@
               ]
             }
           }
-        },
+        }
         
-        "student_presenters": [
-          {"name": "Sarita Tamang", "class": "9A", "role": "Grammar Expert"},
-          {"name": "Bipana Bhujel", "class": "9A", "role": "Literature Presenter"}, 
-          {"name": "Kamal Khatri", "class": "9B", "role": "Dr. Ruit Biography Narrator"}
-        ]
+        
       }
     },
     
@@ -1498,102 +1489,7 @@
     }
   },
 
-  "student_records": {
-    "total_students": 1371,
-    "class_wise_distribution": {
-      "ecd": {"male": 15, "female": 7, "total": 22},
-      "grade_1": {"male": 18, "female": 17, "total": 35},
-      "grade_2": {"male": 16, "female": 18, "total": 34},
-      "grade_3": {"male": 24, "female": 17, "total": 41},
-      "grade_4": {"male": 27, "female": 25, "total": 52},
-      "grade_5": {"male": 29, "female": 26, "total": 55},
-      "grade_6": {"male": 32, "female": 32, "total": 64},
-      "grade_7": {"male": 63, "female": 42, "total": 105},
-      "grade_8": {"male": 71, "female": 55, "total": 126},
-      "grade_9": {"male": 96, "female": 85, "total": 181},
-      "grade_10": {"male": 69, "female": 68, "total": 137},
-      "grade_11": {"male": 179, "female": 149, "total": 328},
-      "grade_12": {"male": 106, "female": 104, "total": 210}
-    },
-    
-    "student_lists": {
-      "ecd": [
-        {"roll": 1, "name": "Shurti Kumari Yadav"},
-        {"roll": 2, "name": "Samir Kattel"},
-        {"roll": 3, "name": "Aaryan Thakur"},
-        {"roll": 4, "name": "Keshar Tamang"},
-        {"roll": 5, "name": "Aasish Rokka"},
-        {"roll": 6, "name": "Krishan Kumar Thakur"},
-        {"roll": 7, "name": "Showita Pahari"},
-        {"roll": 8, "name": "Shurite Kumari Yadav"},
-        {"roll": 9, "name": "Bikash Shah"},
-        {"roll": 10, "name": "Ankit Karki"},
-        {"roll": 11, "name": "Shyam Mistry"},
-        {"roll": 12, "name": "Bir Bahadur Shah"},
-        {"roll": 13, "name": "Khadananda Dhamala"},
-        {"roll": 14, "name": "Khurahri Dhamala"},
-        {"roll": 15, "name": "Rakish Gharti"},
-        {"roll": 16, "name": "Rosika Tamang"},
-        {"roll": 17, "name": "Resham Muktan"},
-        {"roll": 18, "name": "Pratiksha Bhandari"},
-        {"roll": 19, "name": "Allas Kapali"},
-        {"roll": 20, "name": "Rojen Tamang"},
-        {"roll": 21, "name": "Ronika Chaudhary"},
-        {"roll": 22, "name": "Samir Yonjan"}
-      ],
-      
-      "grade_9c_technical": [
-        {"roll": 1, "name": "Anush Giri"},
-        {"roll": 2, "name": "Ibrahim Ansari"},
-        {"roll": 3, "name": "Aanish B.C"},
-        {"roll": 4, "name": "Samiya Lama"},
-        {"roll": 5, "name": "Niraj Khadka"},
-        {"roll": 6, "name": "Nishan Katwal"},
-        {"roll": 7, "name": "Simon Deula"},
-        {"roll": 8, "name": "Abhiyan Giri"},
-        {"roll": 9, "name": "Binita Bharati"},
-        {"roll": 10, "name": "Nisha bharati"},
-        {"roll": 11, "name": "Alisha Luitel"},
-        {"roll": 12, "name": "Aabbushan dahal"},
-        {"roll": 13, "name": "Sapana Rokka"},
-        {"roll": 14, "name": "Sital Sunuwar"},
-        {"roll": 15, "name": "Sugam Parajuli"},
-        {"roll": 16, "name": "Saugat Gautam"},
-        {"roll": 17, "name": "Anupam Bastola"},
-        {"roll": 18, "name": "Samten lama"},
-        {"roll": 19, "name": "Shreya Chaudhary"},
-        {"roll": 20, "name": "kriti Sunar"},
-        {"roll": 21, "name": "ashma gole"},
-        {"roll": 22, "name": "Shardha Gautam"},
-        {"roll": 23, "name": "Resha karki"},
-        {"roll": 24, "name": "Kundan Kumar Sah"},
-        {"roll": 25, "name": "Rimisha Adhikari"},
-        {"roll": 26, "name": "Naresh Budha"},
-        {"roll": 27, "name": "Sangam Pariyar"},
-        {"roll": 28, "name": "Sachindra Shrestha"},
-        {"roll": 29, "name": "Jens Thapa"},
-        {"roll": 30, "name": "Dipesh Basnet"},
-        {"roll": 31, "name": "Bikesh Basnet"},
-        {"roll": 32, "name": "Bishal Mandal"},
-        {"roll": 33, "name": "Bijay B.k"},
-        {"roll": 34, "name": "Pasang Lamho"},
-        {"roll": 35, "name": "Anisha Khadka"},
-        {"roll": 36, "name": "Shahabaj Ansari"},
-        {"roll": 37, "name": "Barsa Pahari"},
-        {"roll": 38, "name": "Badal Pahari"},
-        {"roll": 39, "name": "Rihana Baral"},
-        {"roll": 40, "name": "Dharbendra Shahi"},
-        {"roll": 41, "name": "Subash Ruma"},
-        {"roll": 42, "name": "Utsav Dhakal"},
-        {"roll": 43, "name": "Nikesh Siwakoti"},
-        {"roll": 44, "name": "Prajwal Tamang"},
-        {"roll": 45, "name": "Manisha Bishwokarma"},
-        {"roll": 46, "name": "Ankita Sashankar"},
-        {"roll": 47, "name": "Renuka Chaulagain"},
-        {"roll": 48, "name": "Saujat Bohara"}
-      ]
-    }
-  },
+  
 
   "clubs_and_committees": {
     "children_club": {
@@ -1651,10 +1547,10 @@
       "total_teachers": 42,
       "department_heads": {
         "science": "Mr. Ramsharan Regmi",
-        "mathematics": "Mr. Ganesh Poudel", 
-        "computer": "Mr. Bikesh Poudel",
+        "mathematics": "Mr. Ganesh Pathak", 
+        "computer": "Mr. Bikesh Shrestha",
         "language": "Ms. Sarita K.C.",
-        "social_studies": "Mr. Shekhar Pandey",
+        "social_studies": "Mr. Shekhar Parajuli",
         "management": "Mr. Ram Babu Regmi"
       }
     }
@@ -1694,6 +1590,502 @@
         "response": "We have excellent infrastructure including 2 computer labs, science laboratories, a library with 5000+ books, spacious playground, and well-equipped classrooms. Our technical facilities support our Computer Engineering program from Grade 9-12."
       }
     ]
+},
+"staff_list": [
+  {
+    "id": "03802dbb-bd41-42f2-b1d7-83ff76d84174",
+    "name": "Ramsharan Regmi",
+    "name_nepali": "",
+    "position": "Secondary Teacher",
+    "position_nepali": "माध्यमिक शिक्षक",
+    "image_url": "",
+    "display_order": 5,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "14ac0d51-2f17-4e33-a2ae-624851831469",
+    "name": "Kamala Pandey",
+    "name_nepali": "",
+    "position": "Teacher",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 19,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "1cb501e4-4ced-4491-b7bf-5c29e4aa7dd0",
+    "name": "Sareena Shrestha",
+    "name_nepali": "",
+    "position": "School Nurse",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 37,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "2646d42c-72f1-4037-bc42-888114ef83bd",
+    "name": "Prabin Neupane",
+    "name_nepali": "",
+    "position": "Secondary  Physics Teacher",
+    "position_nepali": "माध्यमिक भौतिक विज्ञान शिक्षक",
+    "image_url": "https://gycmtifvvdwduhvglwbj.supabase.co/storage/v1/object/sign/user-images/prabin_sir.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV81MWE0NWVmMS02OTc5LTRlOTAtYjk4Ni1mNTFiZmUxZGFjY2QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ1c2VyLWltYWdlcy9wcmFiaW5fc2lyLmpwZyIsImlhdCI6MTc2MzA5NzEwOSwiZXhwIjoxNzk0NjMzMTA5fQ.U682h25qUcJdEvTZLyZ-zJvH4CKkjVkZ2Pk6EnNKqP0",
+    "display_order": 13,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "2fa53fe0-bf18-4831-87f1-174b314ffd65",
+    "name": "Debaki Ghimire",
+    "name_nepali": "",
+    "position": "Teacher",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 21,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "3072ad02-6199-456a-a645-5bd6f2041ff0",
+    "name": "Sahanshila Kumari Aryal",
+    "name_nepali": "",
+    "position": "Teacher",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 26,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "3326b0fc-5df9-4b4e-831a-439d07ed05fe",
+    "name": "Bhim Dev Bhatt",
+    "name_nepali": "",
+    "position": "Liberian Personnel",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 39,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "34b23261-4390-464e-80c4-4fb29b71c562",
+    "name": "Kalpana Karki",
+    "name_nepali": "",
+    "position": "Teacher",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 32,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "3ec0ca3d-81cc-4a5f-8344-158505c03408",
+    "name": "Babita Thapa",
+    "name_nepali": "",
+    "position": "Teacher",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 30,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "4f40e96c-a02a-49e4-8c9d-738304113820",
+    "name": "Sanukaji Shrestha",
+    "name_nepali": "",
+    "position": "Office Helper",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 42,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "51d6c7d0-5474-4b56-8986-2e3eb506f095",
+    "name": "Yashoda Praapati",
+    "name_nepali": "",
+    "position": "Secondary Chemistry Teacher",
+    "position_nepali": "माध्यमिक रसायन विज्ञान शिक्षक",
+    "image_url": "",
+    "display_order": 12,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "53e88e4a-d6c4-494c-aa41-4f5c5984af0d",
+    "name": "Pramila K.C.",
+    "name_nepali": "",
+    "position": "Teacher",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 34,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "65bef1c1-99df-40e6-a3f7-a69d3eb4c25b",
+    "name": "Kausal Kumar Rayamajhee",
+    "name_nepali": "",
+    "position": "Secondary  Teacher",
+    "position_nepali": "माध्यमिक शिक्षक",
+    "image_url": "",
+    "display_order": 7,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "6b78271e-5920-48df-9414-1e13471d038b",
+    "name": "Bachchu Parajuli",
+    "name_nepali": "",
+    "position": "Teacher",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 29,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "6dd8a061-9298-402f-9048-fa3e4a00f845",
+    "name": "Sarita KC",
+    "name_nepali": "",
+    "position": "Secondary  Teacher",
+    "position_nepali": "माध्यमिक शिक्षक",
+    "image_url": "",
+    "display_order": 4,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "6df13255-4ebc-41fc-a46e-fbc3efa0e779",
+    "name": "Krishnalal Madi Shrestha",
+    "name_nepali": "",
+    "position": "Office Helper",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 43,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "708939e7-18d8-4744-8f78-8f087b7ce811",
+    "name": "Nanu Baral",
+    "name_nepali": "",
+    "position": "Teacher",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 18,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "75593426-33ac-4e5f-8b2d-3d57eb75a395",
+    "name": "Ganesh Pathak",
+    "name_nepali": "",
+    "position": "Secondary Teacher",
+    "position_nepali": "माध्यमिक शिक्षक",
+    "image_url": "",
+    "display_order": 8,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "7c77ab12-b2af-45bf-8ed6-a661f7ab8737",
+    "name": "Er. Bharat Chaudhary",
+    "name_nepali": "",
+    "position": "Senior Computer Instructor",
+    "position_nepali": "वरिष्ठ कम्प्युटर प्रशिक्षक",
+    "image_url": "https://gycmtifvvdwduhvglwbj.supabase.co/storage/v1/object/sign/user-images/bharatsir.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV81MWE0NWVmMS02OTc5LTRlOTAtYjk4Ni1mNTFiZmUxZGFjY2QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ1c2VyLWltYWdlcy9iaGFyYXRzaXIuanBnIiwiaWF0IjoxNzYzMTAyNDU2LCJleHAiOjE3OTQ2Mzg0NTZ9.16T7BpiI5ZE328geXUcbjxKYoSK24oVPpjiCEYTa5pQ",
+    "display_order": 11,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "a42750d6-bbe0-4d25-bf52-ffeaf644f1b6",
+    "name": "Bibek Luitel",
+    "name_nepali": "",
+    "position": "Secondary  Teacher",
+    "position_nepali": "माध्यमिक शिक्षक",
+    "image_url": "",
+    "display_order": 9,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "a4554b23-21ee-48e7-b7b0-d7ebd864dec7",
+    "name": "Kashi Bhakta Kayastha",
+    "name_nepali": "",
+    "position": "Secondary  Teacher",
+    "position_nepali": "माध्यमिक शिक्षक",
+    "image_url": "",
+    "display_order": 2,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "a960f46f-a347-45c3-8775-f263ab700e0c",
+    "name": "Sajani Pradhan",
+    "name_nepali": "",
+    "position": "Teacher",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 25,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "afb2c706-57c0-4a32-b1c5-e1bb0d0be9d2",
+    "name": "Shova Rijal",
+    "name_nepali": "",
+    "position": "Secondary  Teacher",
+    "position_nepali": "माध्यमिक शिक्षक",
+    "image_url": "",
+    "display_order": 14,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "b47cea82-3ea6-40c8-b37e-d25621229707",
+    "name": "Kamala Pun Magar",
+    "name_nepali": "",
+    "position": "Teacher",
+    "position_nepali": "",
+    "image_url": "https://gycmtifvvdwduhvglwbj.supabase.co/storage/v1/object/sign/user-images/kamalapunmagar.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV81MWE0NWVmMS02OTc5LTRlOTAtYjk4Ni1mNTFiZmUxZGFjY2QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ1c2VyLWltYWdlcy9rYW1hbGFwdW5tYWdhci5qcGciLCJpYXQiOjE3NjMwOTc0ODgsImV4cCI6MTc5NDYzMzQ4OH0.3yHv-4sWHZCqKB8jf9MLtwhecBfMwTxKsMRe5YsZ60Q",
+    "display_order": 23,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "b6da1330-04a7-454c-8c26-e6547518bb81",
+    "name": "Binod Thakuri",
+    "name_nepali": "",
+    "position": "Teacher",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 33,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "b88e05a4-5a80-4110-b497-5cd5b27cf62a",
+    "name": "Samita Gurung Prajapati",
+    "name_nepali": "",
+    "position": "ECD Teacher",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 41,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "bab61a47-811b-4821-aa58-71a027c87e5f",
+    "name": "Sujan Gasi Shrestha",
+    "name_nepali": "",
+    "position": "Teacher",
+    "position_nepali": "",
+    "image_url": "https://gycmtifvvdwduhvglwbj.supabase.co/storage/v1/object/sign/user-images/sujan_sir.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV81MWE0NWVmMS02OTc5LTRlOTAtYjk4Ni1mNTFiZmUxZGFjY2QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ1c2VyLWltYWdlcy9zdWphbl9zaXIuanBnIiwiaWF0IjoxNzYzMDk2MDI5LCJleHAiOjE3OTQ2MzIwMjl9.qXboDTQQUu-SOochf80OP_-OW7porgtgvEC8Y7GmH2s",
+    "display_order": 17,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "bb1c141e-dbb0-4c70-9869-059e6e084a1e",
+    "name": "Er. Tri Mandir Prajapati",
+    "name_nepali": "",
+    "position": "Senior Computer Instructor",
+    "position_nepali": "वरिष्ठ कम्प्युटर प्रशिक्षक",
+    "image_url": "",
+    "display_order": 10,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "bc2cd835-ffe8-4921-8bea-dcb6492ac694",
+    "name": "Dhan Singh Dhant",
+    "name_nepali": "",
+    "position": "Secondary Teacher",
+    "position_nepali": "माध्यमिक शिक्षक",
+    "image_url": "",
+    "display_order": 6,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "c0085eb0-bf21-40f9-aa78-07cf474f9f88",
+    "name": "Er. Ganesh Sapkota",
+    "name_nepali": "",
+    "position": "Computer Instructor",
+    "position_nepali": "कम्प्युटर प्रशिक्षक",
+    "image_url": "",
+    "display_order": 24,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "c5bad258-4815-47a4-a9ba-7fdfaf5d6139",
+    "name": "Shekhar Parajuli",
+    "name_nepali": "",
+    "position": "Teacher",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 20,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "c92a4b0c-053b-47fa-b243-37f3927bab9b",
+    "name": "Ram Babu Regmi",
+    "name_nepali": "",
+    "position": "Head Teacher",
+    "position_nepali": "प्रधानाध्यापक",
+    "image_url": "",
+    "display_order": 1,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "d27d78dd-15a0-44bb-89bb-81f14ed7f57d",
+    "name": "Er.  Aakash Koirala",
+    "name_nepali": "",
+    "position": "Computer Instructor",
+    "position_nepali": "कम्प्युटर प्रशिक्षक",
+    "image_url": "",
+    "display_order": 16,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "d3049aec-96c6-4cff-b67a-42e016a0ecdb",
+    "name": "Sushial Koirala",
+    "name_nepali": "",
+    "position": "Teacher",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 28,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "d72b4a07-3987-43ff-93b3-bce7cea6bb4f",
+    "name": "Laxmi Tamang",
+    "name_nepali": "",
+    "position": "Office Helper",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 45,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "d84913a2-9df2-4d2c-8082-b22507d050fc",
+    "name": "Muna Adhikari",
+    "name_nepali": "",
+    "position": "Teacher",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 22,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "e04cc174-ef64-468f-8082-2fd12da3a80e",
+    "name": "Sunil Shrestha",
+    "name_nepali": "",
+    "position": "Lab Assistant & Assistant Accountant",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 38,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "e3dbb19c-84c8-4179-a8ae-b5dd319a0745",
+    "name": "Amrita Gyanwali",
+    "name_nepali": "",
+    "position": "Office Helper",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 44,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "eb75afc7-5825-488f-974c-5f3ebca09d00",
+    "name": "Sunita Dawadi",
+    "name_nepali": "",
+    "position": "ECD Teacher",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 40,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "ef486fb1-671a-4812-a1b5-2f39fccd0b07",
+    "name": "Anju Giri",
+    "name_nepali": "",
+    "position": "Teacher",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 31,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "f3a63e58-2c5f-4fc2-8e68-4a482258b5bd",
+    "name": "Kamala Kumari Baral",
+    "name_nepali": "",
+    "position": "Teacher",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 35,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "f3c9cb88-feaa-4d28-837d-65a68e23e9a3",
+    "name": "Er. Kamal Tamrakar",
+    "name_nepali": "",
+    "position": "Computer Instructor",
+    "position_nepali": "कम्प्युटर प्रशिक्षक",
+    "image_url": "",
+    "display_order": 36,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "f833ac5c-b54e-4fab-9321-51096741e652",
+    "name": "Lila Devi Niraula",
+    "name_nepali": "",
+    "position": "Teacher",
+    "position_nepali": "",
+    "image_url": "",
+    "display_order": 27,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "f8d6ce58-d908-4cb6-a6be-3a48cfe7aff0",
+    "name": "Er. Bikesh Shrestha",
+    "name_nepali": "",
+    "position": "Computer Instructor",
+    "position_nepali": "कम्प्युटर प्रशिक्षक",
+    "image_url": "",
+    "display_order": 15,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
+  },
+  {
+    "id": "ff28413a-ec77-4651-b377-3dd000bec03a",
+    "name": "Tanka Nath Acharya",
+    "name_nepali": "",
+    "position": "Asst. Head Teacher",
+    "position_nepali": "सह–प्रधानाध्यापक",
+    "image_url": "",
+    "display_order": 3,
+    "is_active": true,
+    "created_at": "2025-11-06 15:31:15.705462+00"
   }
-}
+]
 }
