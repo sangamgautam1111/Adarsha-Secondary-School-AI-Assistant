@@ -6,13 +6,13 @@ import os
 
 class SchoolDataStore:
     def __init__(self, db_path="D:/sangam/Adarsha AI Assistant/Adarsha-Secondary-School-AI-Assistant/vector_db"):
-        """Initialize ChromaDB client and embedding model"""
+        
         self.db_path = db_path
         
-        # Create directory if it doesn't exist
+        
         os.makedirs(db_path, exist_ok=True)
         
-        # Initialize ChromaDB client with persistent storage
+        
         self.client = chromadb.PersistentClient(path=db_path)
         
         # Initialize embedding model
